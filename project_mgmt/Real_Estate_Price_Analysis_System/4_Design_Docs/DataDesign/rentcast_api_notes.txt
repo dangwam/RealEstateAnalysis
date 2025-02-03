@@ -1,0 +1,31 @@
+rentcat-test::bbf806b0962242c495828a0db2715c00
+
+Example Use Cases
+Here are some examples of what you can do with our API to power your real estate applications, business operations or workflows:
+Retrieve dozens of data points for a specific property address, including structural attributes, property features, tax assessment history, and property tax amounts
+Look up the names and contact information of current property owners, as well as the sale history of each property
+Get real-time property value and rent estimates (AVM) based on the unique characteristics of each property and nearby comparable listings
+Retrieve sales or rental comparables for a specific property, including their attributes, listed prices or rents, and distance from the subject property
+Search for active sale and rental listings in a specific city or geographical area with different ways to filter the available data
+Access historical price and rent trends, market averages, listing and composition statistics for most US zip codes.
+
+Property Data:
+---------------
+curl --request GET \
+     --url 'https://api.rentcast.io/v1/properties?address=5500%20Grand%20Lake%20Dr%2C%20San%20Antonio%2C%20TX%2C%2078244' \
+     --header 'accept: application/json'
+
+import requests
+
+url = "https://api.rentcast.io/v1/properties?address=5500%20Grand%20Lake%20Dr%2C%20San%20Antonio%2C%20TX%2C%2078244"
+
+headers = {"accept": "application/json"}
+
+response = requests.get(url, headers=headers)
+
+print(response.text)
+
+Property Listings:: 
+-------------------
+The /listings endpoints allow you to search for and retrieve active and inactive sale and rental listings in all 50 US states.
+“Sale” listings refer to properties listed for sale, while “rental” listings refer to properties listed for rent.
