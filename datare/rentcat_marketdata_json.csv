@@ -1,0 +1,3424 @@
+{,
+"  ""id"": ""29611"",",
+"  ""zipCode"": ""29611"",",
+"  ""saleData"": {",
+"    ""lastUpdatedDate"": ""2025-02-10T00:00:00","000Z"","
+"    ""averagePrice"": 328799,",
+"    ""medianPrice"": 286278,",
+"    ""minPrice"": 25000,",
+"    ""maxPrice"": 1300000,",
+"    ""averagePricePerSquareFoot"": 201","34,"
+"    ""medianPricePerSquareFoot"": 184","08,"
+"    ""minPricePerSquareFoot"": 64","48,"
+"    ""maxPricePerSquareFoot"": 404","49,"
+"    ""averageSquareFootage"": 1714,",
+"    ""medianSquareFootage"": 1573,",
+"    ""minSquareFootage"": 801,",
+"    ""maxSquareFootage"": 5265,",
+"    ""averageDaysOnMarket"": 92","78,"
+"    ""medianDaysOnMarket"": 76,",
+"    ""minDaysOnMarket"": 1,",
+"    ""maxDaysOnMarket"": 351,",
+"    ""newListings"": 11,",
+"    ""totalListings"": 191,",
+"    ""dataByPropertyType"": [",
+      {,
+"        ""propertyType"": ""Condo"",",
+"        ""averagePrice"": 186000,",
+"        ""medianPrice"": 186000,",
+"        ""minPrice"": 186000,",
+"        ""maxPrice"": 186000,",
+"        ""averagePricePerSquareFoot"": 152","71,"
+"        ""medianPricePerSquareFoot"": 152","71,"
+"        ""minPricePerSquareFoot"": 152","71,"
+"        ""maxPricePerSquareFoot"": 152","71,"
+"        ""averageSquareFootage"": 1218,",
+"        ""medianSquareFootage"": 1218,",
+"        ""minSquareFootage"": 1218,",
+"        ""maxSquareFootage"": 1218,",
+"        ""averageDaysOnMarket"": 80,",
+"        ""medianDaysOnMarket"": 80,",
+"        ""minDaysOnMarket"": 80,",
+"        ""maxDaysOnMarket"": 80,",
+"        ""newListings"": 0,",
+"        ""totalListings"": 1",
+"      },",
+      {,
+"        ""propertyType"": ""Land"",",
+"        ""averagePrice"": 284236,",
+"        ""medianPrice"": 94000,",
+"        ""minPrice"": 25000,",
+"        ""maxPrice"": 1300000,",
+"        ""averagePricePerSquareFoot"": null,",
+"        ""medianPricePerSquareFoot"": null,",
+"        ""minPricePerSquareFoot"": null,",
+"        ""maxPricePerSquareFoot"": null,",
+"        ""averageSquareFootage"": null,",
+"        ""medianSquareFootage"": null,",
+"        ""minSquareFootage"": null,",
+"        ""maxSquareFootage"": null,",
+"        ""averageDaysOnMarket"": 122","39,"
+"        ""medianDaysOnMarket"": 63,",
+"        ""minDaysOnMarket"": 2,",
+"        ""maxDaysOnMarket"": 351,",
+"        ""newListings"": 2,",
+"        ""totalListings"": 28",
+"      },",
+      {,
+"        ""propertyType"": ""Manufactured"",",
+"        ""averagePrice"": 178648,",
+"        ""medianPrice"": 173000,",
+"        ""minPrice"": 164990,",
+"        ""maxPrice"": 199500,",
+"        ""averagePricePerSquareFoot"": 133","28,"
+"        ""medianPricePerSquareFoot"": 136","22,"
+"        ""minPricePerSquareFoot"": 91","52,"
+"        ""maxPricePerSquareFoot"": 165","01,"
+"        ""averageSquareFootage"": 1388,",
+"        ""medianSquareFootage"": 1248,",
+"        ""minSquareFootage"": 1134,",
+"        ""maxSquareFootage"": 2016,",
+"        ""averageDaysOnMarket"": 56","17,"
+"        ""medianDaysOnMarket"": 37,",
+"        ""minDaysOnMarket"": 7,",
+"        ""maxDaysOnMarket"": 136,",
+"        ""newListings"": 0,",
+"        ""totalListings"": 6",
+"      },",
+      {,
+"        ""propertyType"": ""Multi-Family"",",
+"        ""averagePrice"": 414600,",
+"        ""medianPrice"": 484900,",
+"        ""minPrice"": 199900,",
+"        ""maxPrice"": 559000,",
+"        ""averagePricePerSquareFoot"": 234","49,"
+"        ""medianPricePerSquareFoot"": 64","48,"
+"        ""minPricePerSquareFoot"": 64","48,"
+"        ""maxPricePerSquareFoot"": 404","49,"
+"        ""averageSquareFootage"": 2241,",
+"        ""medianSquareFootage"": 1382,",
+"        ""minSquareFootage"": 1382,",
+"        ""maxSquareFootage"": 3100,",
+"        ""averageDaysOnMarket"": 64","67,"
+"        ""medianDaysOnMarket"": 76,",
+"        ""minDaysOnMarket"": 17,",
+"        ""maxDaysOnMarket"": 101,",
+"        ""newListings"": 0,",
+"        ""totalListings"": 3",
+"      },",
+      {,
+"        ""propertyType"": ""Single Family"",",
+"        ""averagePrice"": 348258,",
+"        ""medianPrice"": 313900,",
+"        ""minPrice"": 129900,",
+"        ""maxPrice"": 1150000,",
+"        ""averagePricePerSquareFoot"": 205","98,"
+"        ""medianPricePerSquareFoot"": 196","41,"
+"        ""minPricePerSquareFoot"": 103","2,"
+"        ""maxPricePerSquareFoot"": 379","96,"
+"        ""averageSquareFootage"": 1741,",
+"        ""medianSquareFootage"": 1590,",
+"        ""minSquareFootage"": 801,",
+"        ""maxSquareFootage"": 5265,",
+"        ""averageDaysOnMarket"": 91","02,"
+"        ""medianDaysOnMarket"": 76,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 319,",
+"        ""newListings"": 3,",
+"        ""totalListings"": 120",
+"      },",
+      {,
+"        ""propertyType"": ""Townhouse"",",
+"        ""averagePrice"": 319677,",
+"        ""medianPrice"": 279990,",
+"        ""minPrice"": 192000,",
+"        ""maxPrice"": 765000,",
+"        ""averagePricePerSquareFoot"": 196","45,"
+"        ""medianPricePerSquareFoot"": 171","79,"
+"        ""minPricePerSquareFoot"": 139","88,"
+"        ""maxPricePerSquareFoot"": 390","46,"
+"        ""averageSquareFootage"": 1659,",
+"        ""medianSquareFootage"": 1573,",
+"        ""minSquareFootage"": 1273,",
+"        ""maxSquareFootage"": 2150,",
+"        ""averageDaysOnMarket"": 88,",
+"        ""medianDaysOnMarket"": 82,",
+"        ""minDaysOnMarket"": 2,",
+"        ""maxDaysOnMarket"": 325,",
+"        ""newListings"": 6,",
+"        ""totalListings"": 33",
+      },
+"    ],",
+"    ""dataByBedrooms"": [",
+      {,
+"        ""bedrooms"": 1,",
+"        ""averagePrice"": 129900,",
+"        ""medianPrice"": 129900,",
+"        ""minPrice"": 129900,",
+"        ""maxPrice"": 129900,",
+"        ""averagePricePerSquareFoot"": 162","17,"
+"        ""medianPricePerSquareFoot"": 162","17,"
+"        ""minPricePerSquareFoot"": 162","17,"
+"        ""maxPricePerSquareFoot"": 162","17,"
+"        ""averageSquareFootage"": 801,",
+"        ""medianSquareFootage"": 801,",
+"        ""minSquareFootage"": 801,",
+"        ""maxSquareFootage"": 801,",
+"        ""averageDaysOnMarket"": 103,",
+"        ""medianDaysOnMarket"": 103,",
+"        ""minDaysOnMarket"": 103,",
+"        ""maxDaysOnMarket"": 103,",
+"        ""newListings"": 0,",
+"        ""totalListings"": 1",
+"      },",
+      {,
+"        ""bedrooms"": 2,",
+"        ""averagePrice"": 289132,",
+"        ""medianPrice"": 275000,",
+"        ""minPrice"": 150000,",
+"        ""maxPrice"": 540000,",
+"        ""averagePricePerSquareFoot"": 244","59,"
+"        ""medianPricePerSquareFoot"": 206","8,"
+"        ""minPricePerSquareFoot"": 136","46,"
+"        ""maxPricePerSquareFoot"": 390","46,"
+"        ""averageSquareFootage"": 1175,",
+"        ""medianSquareFootage"": 1120,",
+"        ""minSquareFootage"": 891,",
+"        ""maxSquareFootage"": 1620,",
+"        ""averageDaysOnMarket"": 95","26,"
+"        ""medianDaysOnMarket"": 87,",
+"        ""minDaysOnMarket"": 5,",
+"        ""maxDaysOnMarket"": 325,",
+"        ""newListings"": 0,",
+"        ""totalListings"": 28",
+"      },",
+      {,
+"        ""bedrooms"": 3,",
+"        ""averagePrice"": 304177,",
+"        ""medianPrice"": 279990,",
+"        ""minPrice"": 164990,",
+"        ""maxPrice"": 765000,",
+"        ""averagePricePerSquareFoot"": 195","76,"
+"        ""medianPricePerSquareFoot"": 179","27,"
+"        ""minPricePerSquareFoot"": 106","9,"
+"        ""maxPricePerSquareFoot"": 404","49,"
+"        ""averageSquareFootage"": 1564,",
+"        ""medianSquareFootage"": 1556,",
+"        ""minSquareFootage"": 1000,",
+"        ""maxSquareFootage"": 2800,",
+"        ""averageDaysOnMarket"": 82","53,"
+"        ""medianDaysOnMarket"": 68,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 297,",
+"        ""newListings"": 8,",
+"        ""totalListings"": 94",
+"      },",
+      {,
+"        ""bedrooms"": 4,",
+"        ""averagePrice"": 445914,",
+"        ""medianPrice"": 425000,",
+"        ""minPrice"": 179900,",
+"        ""maxPrice"": 1150000,",
+"        ""averagePricePerSquareFoot"": 193","44,"
+"        ""medianPricePerSquareFoot"": 178","54,"
+"        ""minPricePerSquareFoot"": 91","52,"
+"        ""maxPricePerSquareFoot"": 375","33,"
+"        ""averageSquareFootage"": 2304,",
+"        ""medianSquareFootage"": 2206,",
+"        ""minSquareFootage"": 1318,",
+"        ""maxSquareFootage"": 3292,",
+"        ""averageDaysOnMarket"": 103","24,"
+"        ""medianDaysOnMarket"": 80,",
+"        ""minDaysOnMarket"": 5,",
+"        ""maxDaysOnMarket"": 319,",
+"        ""newListings"": 1,",
+"        ""totalListings"": 33",
+"      },",
+      {,
+"        ""bedrooms"": 5,",
+"        ""averagePrice"": 428935,",
+"        ""medianPrice"": 410000,",
+"        ""minPrice"": 199900,",
+"        ""maxPrice"": 600000,",
+"        ""averagePricePerSquareFoot"": 147","27,"
+"        ""medianPricePerSquareFoot"": 149","25,"
+"        ""minPricePerSquareFoot"": 64","48,"
+"        ""maxPricePerSquareFoot"": 214","29,"
+"        ""averageSquareFootage"": 3016,",
+"        ""medianSquareFootage"": 2800,",
+"        ""minSquareFootage"": 2657,",
+"        ""maxSquareFootage"": 3777,",
+"        ""averageDaysOnMarket"": 82,",
+"        ""medianDaysOnMarket"": 86,",
+"        ""minDaysOnMarket"": 17,",
+"        ""maxDaysOnMarket"": 137,",
+"        ""newListings"": 0,",
+"        ""totalListings"": 5",
+"      },",
+      {,
+"        ""bedrooms"": 6,",
+"        ""averagePrice"": 581950,",
+"        ""medianPrice"": 484900,",
+"        ""minPrice"": 484900,",
+"        ""maxPrice"": 679000,",
+"        ""averagePricePerSquareFoot"": 128","96,"
+"        ""medianPricePerSquareFoot"": 128","96,"
+"        ""minPricePerSquareFoot"": 128","96,"
+"        ""maxPricePerSquareFoot"": 128","96,"
+"        ""averageSquareFootage"": 5265,",
+"        ""medianSquareFootage"": 5265,",
+"        ""minSquareFootage"": 5265,",
+"        ""maxSquareFootage"": 5265,",
+"        ""averageDaysOnMarket"": 49","5,"
+"        ""medianDaysOnMarket"": 23,",
+"        ""minDaysOnMarket"": 23,",
+"        ""maxDaysOnMarket"": 76,",
+"        ""newListings"": 0,",
+"        ""totalListings"": 2",
+      },
+"    ],",
+"    ""history"": {",
+"      ""2024-09"": {",
+"        ""date"": ""2024-09-01T00:00:00","000Z"","
+"        ""averagePrice"": 291174,",
+"        ""medianPrice"": 277990,",
+"        ""minPrice"": 20000,",
+"        ""maxPrice"": 1500000,",
+"        ""averagePricePerSquareFoot"": 187","39,"
+"        ""medianPricePerSquareFoot"": 178,",
+"        ""minPricePerSquareFoot"": 64","9,"
+"        ""maxPricePerSquareFoot"": 500,",
+"        ""averageSquareFootage"": 1695,",
+"        ""medianSquareFootage"": 1600,",
+"        ""minSquareFootage"": 610,",
+"        ""maxSquareFootage"": 4588,",
+"        ""averageDaysOnMarket"": 63","65,"
+"        ""medianDaysOnMarket"": 41,",
+"        ""minDaysOnMarket"": 2,",
+"        ""maxDaysOnMarket"": 357,",
+"        ""newListings"": 66,",
+"        ""totalListings"": 269,",
+"        ""dataByPropertyType"": [",
+          {,
+"            ""propertyType"": ""Condo"",",
+"            ""averagePrice"": 149900,",
+"            ""medianPrice"": 149900,",
+"            ""minPrice"": 149900,",
+"            ""maxPrice"": 149900,",
+"            ""averagePricePerSquareFoot"": 133","72,"
+"            ""medianPricePerSquareFoot"": 133","72,"
+"            ""minPricePerSquareFoot"": 133","72,"
+"            ""maxPricePerSquareFoot"": 133","72,"
+"            ""averageSquareFootage"": 1121,",
+"            ""medianSquareFootage"": 1121,",
+"            ""minSquareFootage"": 1121,",
+"            ""maxSquareFootage"": 1121,",
+"            ""averageDaysOnMarket"": 47,",
+"            ""medianDaysOnMarket"": 47,",
+"            ""minDaysOnMarket"": 47,",
+"            ""maxDaysOnMarket"": 47,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""propertyType"": ""Land"",",
+"            ""averagePrice"": 214267,",
+"            ""medianPrice"": 90000,",
+"            ""minPrice"": 20000,",
+"            ""maxPrice"": 1500000,",
+"            ""averagePricePerSquareFoot"": null,",
+"            ""medianPricePerSquareFoot"": null,",
+"            ""minPricePerSquareFoot"": null,",
+"            ""maxPricePerSquareFoot"": null,",
+"            ""averageSquareFootage"": null,",
+"            ""medianSquareFootage"": null,",
+"            ""minSquareFootage"": null,",
+"            ""maxSquareFootage"": null,",
+"            ""averageDaysOnMarket"": 124","16,"
+"            ""medianDaysOnMarket"": 84,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 357,",
+"            ""newListings"": 2,",
+"            ""totalListings"": 33",
+"          },",
+          {,
+"            ""propertyType"": ""Manufactured"",",
+"            ""averagePrice"": 204000,",
+"            ""medianPrice"": 175000,",
+"            ""minPrice"": 39900,",
+"            ""maxPrice"": 850000,",
+"            ""averagePricePerSquareFoot"": 154","29,"
+"            ""medianPricePerSquareFoot"": 122","27,"
+"            ""minPricePerSquareFoot"": 64","9,"
+"            ""maxPricePerSquareFoot"": 351","97,"
+"            ""averageSquareFootage"": 1574,",
+"            ""medianSquareFootage"": 1500,",
+"            ""minSquareFootage"": 1000,",
+"            ""maxSquareFootage"": 2415,",
+"            ""averageDaysOnMarket"": 47","15,"
+"            ""medianDaysOnMarket"": 31,",
+"            ""minDaysOnMarket"": 4,",
+"            ""maxDaysOnMarket"": 298,",
+"            ""newListings"": 4,",
+"            ""totalListings"": 13",
+"          },",
+          {,
+"            ""propertyType"": ""Multi-Family"",",
+"            ""averagePrice"": 265000,",
+"            ""medianPrice"": 265000,",
+"            ""minPrice"": 265000,",
+"            ""maxPrice"": 265000,",
+"            ""averagePricePerSquareFoot"": null,",
+"            ""medianPricePerSquareFoot"": null,",
+"            ""minPricePerSquareFoot"": null,",
+"            ""maxPricePerSquareFoot"": null,",
+"            ""averageSquareFootage"": null,",
+"            ""medianSquareFootage"": null,",
+"            ""minSquareFootage"": null,",
+"            ""maxSquareFootage"": null,",
+"            ""averageDaysOnMarket"": 6","5,"
+"            ""medianDaysOnMarket"": 6,",
+"            ""minDaysOnMarket"": 6,",
+"            ""maxDaysOnMarket"": 7,",
+"            ""newListings"": 2,",
+"            ""totalListings"": 2",
+"          },",
+          {,
+"            ""propertyType"": ""Single Family"",",
+"            ""averagePrice"": 311771,",
+"            ""medianPrice"": 286278,",
+"            ""minPrice"": 85018,",
+"            ""maxPrice"": 774900,",
+"            ""averagePricePerSquareFoot"": 191","94,"
+"            ""medianPricePerSquareFoot"": 185","07,"
+"            ""minPricePerSquareFoot"": 65","3,"
+"            ""maxPricePerSquareFoot"": 500,",
+"            ""averageSquareFootage"": 1718,",
+"            ""medianSquareFootage"": 1620,",
+"            ""minSquareFootage"": 610,",
+"            ""maxSquareFootage"": 4588,",
+"            ""averageDaysOnMarket"": 60","25,"
+"            ""medianDaysOnMarket"": 44,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 327,",
+"            ""newListings"": 46,",
+"            ""totalListings"": 174",
+"          },",
+          {,
+"            ""propertyType"": ""Townhouse"",",
+"            ""averagePrice"": 297282,",
+"            ""medianPrice"": 279990,",
+"            ""minPrice"": 124900,",
+"            ""maxPrice"": 765000,",
+"            ""averagePricePerSquareFoot"": 181","38,"
+"            ""medianPricePerSquareFoot"": 173","74,"
+"            ""minPricePerSquareFoot"": 131","61,"
+"            ""maxPricePerSquareFoot"": 386","84,"
+"            ""averageSquareFootage"": 1665,",
+"            ""medianSquareFootage"": 1600,",
+"            ""minSquareFootage"": 949,",
+"            ""maxSquareFootage"": 2150,",
+"            ""averageDaysOnMarket"": 43","15,"
+"            ""medianDaysOnMarket"": 20,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 333,",
+"            ""newListings"": 12,",
+"            ""totalListings"": 46",
+          },
+"        ],",
+"        ""dataByBedrooms"": [",
+          {,
+"            ""bedrooms"": 1,",
+"            ""averagePrice"": 188475,",
+"            ""medianPrice"": 160000,",
+"            ""minPrice"": 147900,",
+"            ""maxPrice"": 237000,",
+"            ""averagePricePerSquareFoot"": 243","02,"
+"            ""medianPricePerSquareFoot"": 199","75,"
+"            ""minPricePerSquareFoot"": 184","88,"
+"            ""maxPricePerSquareFoot"": 342","62,"
+"            ""averageSquareFootage"": 795,",
+"            ""medianSquareFootage"": 800,",
+"            ""minSquareFootage"": 610,",
+"            ""maxSquareFootage"": 968,",
+"            ""averageDaysOnMarket"": 115,",
+"            ""medianDaysOnMarket"": 56,",
+"            ""minDaysOnMarket"": 6,",
+"            ""maxDaysOnMarket"": 300,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 4",
+"          },",
+          {,
+"            ""bedrooms"": 2,",
+"            ""averagePrice"": 248749,",
+"            ""medianPrice"": 244500,",
+"            ""minPrice"": 39900,",
+"            ""maxPrice"": 770000,",
+"            ""averagePricePerSquareFoot"": 207","67,"
+"            ""medianPricePerSquareFoot"": 193","88,"
+"            ""minPricePerSquareFoot"": 65","3,"
+"            ""maxPricePerSquareFoot"": 386","84,"
+"            ""averageSquareFootage"": 1167,",
+"            ""medianSquareFootage"": 1076,",
+"            ""minSquareFootage"": 833,",
+"            ""maxSquareFootage"": 2292,",
+"            ""averageDaysOnMarket"": 75","94,"
+"            ""medianDaysOnMarket"": 53,",
+"            ""minDaysOnMarket"": 4,",
+"            ""maxDaysOnMarket"": 333,",
+"            ""newListings"": 14,",
+"            ""totalListings"": 51",
+"          },",
+          {,
+"            ""bedrooms"": 3,",
+"            ""averagePrice"": 284498,",
+"            ""medianPrice"": 280000,",
+"            ""minPrice"": 64900,",
+"            ""maxPrice"": 765000,",
+"            ""averagePricePerSquareFoot"": 182","79,"
+"            ""medianPricePerSquareFoot"": 177","76,"
+"            ""minPricePerSquareFoot"": 64","9,"
+"            ""maxPricePerSquareFoot"": 500,",
+"            ""averageSquareFootage"": 1628,",
+"            ""medianSquareFootage"": 1587,",
+"            ""minSquareFootage"": 700,",
+"            ""maxSquareFootage"": 2800,",
+"            ""averageDaysOnMarket"": 42","04,"
+"            ""medianDaysOnMarket"": 32,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 203,",
+"            ""newListings"": 39,",
+"            ""totalListings"": 135",
+"          },",
+          {,
+"            ""bedrooms"": 4,",
+"            ""averagePrice"": 404014,",
+"            ""medianPrice"": 399000,",
+"            ""minPrice"": 119900,",
+"            ""maxPrice"": 774900,",
+"            ""averagePricePerSquareFoot"": 177","94,"
+"            ""medianPricePerSquareFoot"": 154","62,"
+"            ""minPricePerSquareFoot"": 132","81,"
+"            ""maxPricePerSquareFoot"": 340","62,"
+"            ""averageSquareFootage"": 2323,",
+"            ""medianSquareFootage"": 2045,",
+"            ""minSquareFootage"": 1560,",
+"            ""maxSquareFootage"": 3469,",
+"            ""averageDaysOnMarket"": 60","76,"
+"            ""medianDaysOnMarket"": 44,",
+"            ""minDaysOnMarket"": 3,",
+"            ""maxDaysOnMarket"": 208,",
+"            ""newListings"": 9,",
+"            ""totalListings"": 38",
+"          },",
+          {,
+"            ""bedrooms"": 5,",
+"            ""averagePrice"": 506874,",
+"            ""medianPrice"": 425000,",
+"            ""minPrice"": 345000,",
+"            ""maxPrice"": 850000,",
+"            ""averagePricePerSquareFoot"": 173","42,"
+"            ""medianPricePerSquareFoot"": 151","07,"
+"            ""minPricePerSquareFoot"": 108","55,"
+"            ""maxPricePerSquareFoot"": 351","97,"
+"            ""averageSquareFootage"": 3162,",
+"            ""medianSquareFootage"": 2990,",
+"            ""minSquareFootage"": 2152,",
+"            ""maxSquareFootage"": 4588,",
+"            ""averageDaysOnMarket"": 109","14,"
+"            ""medianDaysOnMarket"": 30,",
+"            ""minDaysOnMarket"": 3,",
+"            ""maxDaysOnMarket"": 327,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 8",
+          },
+        ],
+"      },",
+"      ""2024-10"": {",
+"        ""date"": ""2024-10-01T00:00:00","000Z"","
+"        ""averagePrice"": 290961,",
+"        ""medianPrice"": 276990,",
+"        ""minPrice"": 20000,",
+"        ""maxPrice"": 1500000,",
+"        ""averagePricePerSquareFoot"": 189","27,"
+"        ""medianPricePerSquareFoot"": 179,",
+"        ""minPricePerSquareFoot"": 64","9,"
+"        ""maxPricePerSquareFoot"": 500,",
+"        ""averageSquareFootage"": 1644,",
+"        ""medianSquareFootage"": 1573,",
+"        ""minSquareFootage"": 610,",
+"        ""maxSquareFootage"": 3777,",
+"        ""averageDaysOnMarket"": 70","18,"
+"        ""medianDaysOnMarket"": 52,",
+"        ""minDaysOnMarket"": 2,",
+"        ""maxDaysOnMarket"": 364,",
+"        ""newListings"": 38,",
+"        ""totalListings"": 253,",
+"        ""dataByPropertyType"": [",
+          {,
+"            ""propertyType"": ""Condo"",",
+"            ""averagePrice"": 144900,",
+"            ""medianPrice"": 144900,",
+"            ""minPrice"": 144900,",
+"            ""maxPrice"": 144900,",
+"            ""averagePricePerSquareFoot"": 129","26,"
+"            ""medianPricePerSquareFoot"": 129","26,"
+"            ""minPricePerSquareFoot"": 129","26,"
+"            ""maxPricePerSquareFoot"": 129","26,"
+"            ""averageSquareFootage"": 1121,",
+"            ""medianSquareFootage"": 1121,",
+"            ""minSquareFootage"": 1121,",
+"            ""maxSquareFootage"": 1121,",
+"            ""averageDaysOnMarket"": 78,",
+"            ""medianDaysOnMarket"": 78,",
+"            ""minDaysOnMarket"": 78,",
+"            ""maxDaysOnMarket"": 78,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""propertyType"": ""Land"",",
+"            ""averagePrice"": 234886,",
+"            ""medianPrice"": 90000,",
+"            ""minPrice"": 20000,",
+"            ""maxPrice"": 1500000,",
+"            ""averagePricePerSquareFoot"": null,",
+"            ""medianPricePerSquareFoot"": null,",
+"            ""minPricePerSquareFoot"": null,",
+"            ""maxPricePerSquareFoot"": null,",
+"            ""averageSquareFootage"": null,",
+"            ""medianSquareFootage"": null,",
+"            ""minSquareFootage"": null,",
+"            ""maxSquareFootage"": null,",
+"            ""averageDaysOnMarket"": 151","27,"
+"            ""medianDaysOnMarket"": 115,",
+"            ""minDaysOnMarket"": 24,",
+"            ""maxDaysOnMarket"": 348,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 28",
+"          },",
+          {,
+"            ""propertyType"": ""Manufactured"",",
+"            ""averagePrice"": 221165,",
+"            ""medianPrice"": 176000,",
+"            ""minPrice"": 29900,",
+"            ""maxPrice"": 850000,",
+"            ""averagePricePerSquareFoot"": 148","52,"
+"            ""medianPricePerSquareFoot"": 120","36,"
+"            ""minPricePerSquareFoot"": 64","9,"
+"            ""maxPricePerSquareFoot"": 351","97,"
+"            ""averageSquareFootage"": 1599,",
+"            ""medianSquareFootage"": 1500,",
+"            ""minSquareFootage"": 1000,",
+"            ""maxSquareFootage"": 2415,",
+"            ""averageDaysOnMarket"": 63","64,"
+"            ""medianDaysOnMarket"": 38,",
+"            ""minDaysOnMarket"": 5,",
+"            ""maxDaysOnMarket"": 328,",
+"            ""newListings"": 2,",
+"            ""totalListings"": 11",
+"          },",
+          {,
+"            ""propertyType"": ""Multi-Family"",",
+"            ""averagePrice"": 265000,",
+"            ""medianPrice"": 265000,",
+"            ""minPrice"": 265000,",
+"            ""maxPrice"": 265000,",
+"            ""averagePricePerSquareFoot"": null,",
+"            ""medianPricePerSquareFoot"": null,",
+"            ""minPricePerSquareFoot"": null,",
+"            ""maxPricePerSquareFoot"": null,",
+"            ""averageSquareFootage"": null,",
+"            ""medianSquareFootage"": null,",
+"            ""minSquareFootage"": null,",
+"            ""maxSquareFootage"": null,",
+"            ""averageDaysOnMarket"": 6","5,"
+"            ""medianDaysOnMarket"": 6,",
+"            ""minDaysOnMarket"": 6,",
+"            ""maxDaysOnMarket"": 7,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 2",
+"          },",
+          {,
+"            ""propertyType"": ""Single Family"",",
+"            ""averagePrice"": 304704,",
+"            ""medianPrice"": 281000,",
+"            ""minPrice"": 85018,",
+"            ""maxPrice"": 770000,",
+"            ""averagePricePerSquareFoot"": 194","71,"
+"            ""medianPricePerSquareFoot"": 189","1,"
+"            ""minPricePerSquareFoot"": 65","3,"
+"            ""maxPricePerSquareFoot"": 500,",
+"            ""averageSquareFootage"": 1646,",
+"            ""medianSquareFootage"": 1519,",
+"            ""minSquareFootage"": 610,",
+"            ""maxSquareFootage"": 3777,",
+"            ""averageDaysOnMarket"": 62","3,"
+"            ""medianDaysOnMarket"": 53,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 331,",
+"            ""newListings"": 29,",
+"            ""totalListings"": 168",
+"          },",
+          {,
+"            ""propertyType"": ""Townhouse"",",
+"            ""averagePrice"": 296241,",
+"            ""medianPrice"": 279990,",
+"            ""minPrice"": 119900,",
+"            ""maxPrice"": 765000,",
+"            ""averagePricePerSquareFoot"": 180","57,"
+"            ""medianPricePerSquareFoot"": 167","19,"
+"            ""minPricePerSquareFoot"": 126","34,"
+"            ""maxPricePerSquareFoot"": 386","84,"
+"            ""averageSquareFootage"": 1655,",
+"            ""medianSquareFootage"": 1616,",
+"            ""minSquareFootage"": 949,",
+"            ""maxSquareFootage"": 2150,",
+"            ""averageDaysOnMarket"": 56","37,"
+"            ""medianDaysOnMarket"": 28,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 364,",
+"            ""newListings"": 7,",
+"            ""totalListings"": 43",
+          },
+"        ],",
+"        ""dataByBedrooms"": [",
+          {,
+"            ""bedrooms"": 1,",
+"            ""averagePrice"": 184850,",
+"            ""medianPrice"": 147900,",
+"            ""minPrice"": 145500,",
+"            ""maxPrice"": 237000,",
+"            ""averagePricePerSquareFoot"": 238","5,"
+"            ""medianPricePerSquareFoot"": 184","88,"
+"            ""minPricePerSquareFoot"": 181","65,"
+"            ""maxPricePerSquareFoot"": 342","62,"
+"            ""averageSquareFootage"": 795,",
+"            ""medianSquareFootage"": 800,",
+"            ""minSquareFootage"": 610,",
+"            ""maxSquareFootage"": 968,",
+"            ""averageDaysOnMarket"": 131","5,"
+"            ""medianDaysOnMarket"": 56,",
+"            ""minDaysOnMarket"": 37,",
+"            ""maxDaysOnMarket"": 331,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 4",
+"          },",
+          {,
+"            ""bedrooms"": 2,",
+"            ""averagePrice"": 247376,",
+"            ""medianPrice"": 239900,",
+"            ""minPrice"": 29900,",
+"            ""maxPrice"": 770000,",
+"            ""averagePricePerSquareFoot"": 208","11,"
+"            ""medianPricePerSquareFoot"": 199","9,"
+"            ""minPricePerSquareFoot"": 65","3,"
+"            ""maxPricePerSquareFoot"": 386","84,"
+"            ""averageSquareFootage"": 1158,",
+"            ""medianSquareFootage"": 1076,",
+"            ""minSquareFootage"": 833,",
+"            ""maxSquareFootage"": 2292,",
+"            ""averageDaysOnMarket"": 74","84,"
+"            ""medianDaysOnMarket"": 53,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 364,",
+"            ""newListings"": 7,",
+"            ""totalListings"": 49",
+"          },",
+          {,
+"            ""bedrooms"": 3,",
+"            ""averagePrice"": 281222,",
+"            ""medianPrice"": 279258,",
+"            ""minPrice"": 64900,",
+"            ""maxPrice"": 765000,",
+"            ""averagePricePerSquareFoot"": 185","4,"
+"            ""medianPricePerSquareFoot"": 178","3,"
+"            ""minPricePerSquareFoot"": 64","9,"
+"            ""maxPricePerSquareFoot"": 500,",
+"            ""averageSquareFootage"": 1584,",
+"            ""medianSquareFootage"": 1573,",
+"            ""minSquareFootage"": 700,",
+"            ""maxSquareFootage"": 2800,",
+"            ""averageDaysOnMarket"": 50","18,"
+"            ""medianDaysOnMarket"": 41,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 195,",
+"            ""newListings"": 23,",
+"            ""totalListings"": 132",
+"          },",
+          {,
+"            ""bedrooms"": 4,",
+"            ""averagePrice"": 411924,",
+"            ""medianPrice"": 399900,",
+"            ""minPrice"": 249000,",
+"            ""maxPrice"": 750000,",
+"            ""averagePricePerSquareFoot"": 175","54,"
+"            ""medianPricePerSquareFoot"": 154","62,"
+"            ""minPricePerSquareFoot"": 128","61,"
+"            ""maxPricePerSquareFoot"": 329","63,"
+"            ""averageSquareFootage"": 2335,",
+"            ""medianSquareFootage"": 2096,",
+"            ""minSquareFootage"": 1530,",
+"            ""maxSquareFootage"": 3499,",
+"            ""averageDaysOnMarket"": 66","89,"
+"            ""medianDaysOnMarket"": 56,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 217,",
+"            ""newListings"": 8,",
+"            ""totalListings"": 36",
+"          },",
+          {,
+"            ""bedrooms"": 5,",
+"            ""averagePrice"": 556250,",
+"            ""medianPrice"": 415000,",
+"            ""minPrice"": 410000,",
+"            ""maxPrice"": 850000,",
+"            ""averagePricePerSquareFoot"": 192","55,"
+"            ""medianPricePerSquareFoot"": 151","07,"
+"            ""minPricePerSquareFoot"": 108","55,"
+"            ""maxPricePerSquareFoot"": 351","97,"
+"            ""averageSquareFootage"": 3102,",
+"            ""medianSquareFootage"": 2747,",
+"            ""minSquareFootage"": 2415,",
+"            ""maxSquareFootage"": 3777,",
+"            ""averageDaysOnMarket"": 114","25,"
+"            ""medianDaysOnMarket"": 47,",
+"            ""minDaysOnMarket"": 21,",
+"            ""maxDaysOnMarket"": 328,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 4",
+          },
+        ],
+"      },",
+"      ""2024-11"": {",
+"        ""date"": ""2024-11-01T00:00:00","000Z"","
+"        ""averagePrice"": 300790,",
+"        ""medianPrice"": 276990,",
+"        ""minPrice"": 25000,",
+"        ""maxPrice"": 1500000,",
+"        ""averagePricePerSquareFoot"": 191","84,"
+"        ""medianPricePerSquareFoot"": 178,",
+"        ""minPricePerSquareFoot"": 64","9,"
+"        ""maxPricePerSquareFoot"": 500,",
+"        ""averageSquareFootage"": 1628,",
+"        ""medianSquareFootage"": 1568,",
+"        ""minSquareFootage"": 700,",
+"        ""maxSquareFootage"": 3777,",
+"        ""averageDaysOnMarket"": 70","26,"
+"        ""medianDaysOnMarket"": 49,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 346,",
+"        ""newListings"": 57,",
+"        ""totalListings"": 254,",
+"        ""dataByPropertyType"": [",
+          {,
+"            ""propertyType"": ""Condo"",",
+"            ""averagePrice"": 168950,",
+"            ""medianPrice"": 144900,",
+"            ""minPrice"": 144900,",
+"            ""maxPrice"": 193000,",
+"            ""averagePricePerSquareFoot"": 143","86,"
+"            ""medianPricePerSquareFoot"": 129","26,"
+"            ""minPricePerSquareFoot"": 129","26,"
+"            ""maxPricePerSquareFoot"": 158","46,"
+"            ""averageSquareFootage"": 1170,",
+"            ""medianSquareFootage"": 1121,",
+"            ""minSquareFootage"": 1121,",
+"            ""maxSquareFootage"": 1218,",
+"            ""averageDaysOnMarket"": 43,",
+"            ""medianDaysOnMarket"": 8,",
+"            ""minDaysOnMarket"": 8,",
+"            ""maxDaysOnMarket"": 78,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 2",
+"          },",
+          {,
+"            ""propertyType"": ""Land"",",
+"            ""averagePrice"": 235227,",
+"            ""medianPrice"": 90000,",
+"            ""minPrice"": 25000,",
+"            ""maxPrice"": 1500000,",
+"            ""averagePricePerSquareFoot"": null,",
+"            ""medianPricePerSquareFoot"": null,",
+"            ""minPricePerSquareFoot"": null,",
+"            ""maxPricePerSquareFoot"": null,",
+"            ""averageSquareFootage"": null,",
+"            ""medianSquareFootage"": null,",
+"            ""minSquareFootage"": null,",
+"            ""maxSquareFootage"": null,",
+"            ""averageDaysOnMarket"": 130","26,"
+"            ""medianDaysOnMarket"": 119,",
+"            ""minDaysOnMarket"": 5,",
+"            ""maxDaysOnMarket"": 346,",
+"            ""newListings"": 3,",
+"            ""totalListings"": 26",
+"          },",
+          {,
+"            ""propertyType"": ""Manufactured"",",
+"            ""averagePrice"": 253725,",
+"            ""medianPrice"": 179900,",
+"            ""minPrice"": 29900,",
+"            ""maxPrice"": 850000,",
+"            ""averagePricePerSquareFoot"": 154","17,"
+"            ""medianPricePerSquareFoot"": 136","49,"
+"            ""minPricePerSquareFoot"": 64","9,"
+"            ""maxPricePerSquareFoot"": 351","97,"
+"            ""averageSquareFootage"": 1612,",
+"            ""medianSquareFootage"": 1500,",
+"            ""minSquareFootage"": 1000,",
+"            ""maxSquareFootage"": 2800,",
+"            ""averageDaysOnMarket"": 66","33,"
+"            ""medianDaysOnMarket"": 40,",
+"            ""minDaysOnMarket"": 5,",
+"            ""maxDaysOnMarket"": 328,",
+"            ""newListings"": 4,",
+"            ""totalListings"": 12",
+"          },",
+          {,
+"            ""propertyType"": ""Multi-Family"",",
+"            ""averagePrice"": 397225,",
+"            ""medianPrice"": 265000,",
+"            ""minPrice"": 265000,",
+"            ""maxPrice"": 559000,",
+"            ""averagePricePerSquareFoot"": 404","49,"
+"            ""medianPricePerSquareFoot"": 404","49,"
+"            ""minPricePerSquareFoot"": 404","49,"
+"            ""maxPricePerSquareFoot"": 404","49,"
+"            ""averageSquareFootage"": 1382,",
+"            ""medianSquareFootage"": 1382,",
+"            ""minSquareFootage"": 1382,",
+"            ""maxSquareFootage"": 1382,",
+"            ""averageDaysOnMarket"": 11","5,"
+"            ""medianDaysOnMarket"": 6,",
+"            ""minDaysOnMarket"": 4,",
+"            ""maxDaysOnMarket"": 29,",
+"            ""newListings"": 2,",
+"            ""totalListings"": 4",
+"          },",
+          {,
+"            ""propertyType"": ""Single Family"",",
+"            ""averagePrice"": 315950,",
+"            ""medianPrice"": 285000,",
+"            ""minPrice"": 85018,",
+"            ""maxPrice"": 1150000,",
+"            ""averagePricePerSquareFoot"": 197","87,"
+"            ""medianPricePerSquareFoot"": 189","3,"
+"            ""minPricePerSquareFoot"": 65","3,"
+"            ""maxPricePerSquareFoot"": 500,",
+"            ""averageSquareFootage"": 1627,",
+"            ""medianSquareFootage"": 1519,",
+"            ""minSquareFootage"": 700,",
+"            ""maxSquareFootage"": 3777,",
+"            ""averageDaysOnMarket"": 68","02,"
+"            ""medianDaysOnMarket"": 51,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 346,",
+"            ""newListings"": 30,",
+"            ""totalListings"": 166",
+"          },",
+          {,
+"            ""propertyType"": ""Townhouse"",",
+"            ""averagePrice"": 292397,",
+"            ""medianPrice"": 276990,",
+"            ""minPrice"": 119900,",
+"            ""maxPrice"": 765000,",
+"            ""averagePricePerSquareFoot"": 177","24,"
+"            ""medianPricePerSquareFoot"": 164","65,"
+"            ""minPricePerSquareFoot"": 126","34,"
+"            ""maxPricePerSquareFoot"": 386","84,"
+"            ""averageSquareFootage"": 1663,",
+"            ""medianSquareFootage"": 1600,",
+"            ""minSquareFootage"": 949,",
+"            ""maxSquareFootage"": 2150,",
+"            ""averageDaysOnMarket"": 54","67,"
+"            ""medianDaysOnMarket"": 18,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 312,",
+"            ""newListings"": 17,",
+"            ""totalListings"": 44",
+          },
+"        ],",
+"        ""dataByBedrooms"": [",
+          {,
+"            ""bedrooms"": 1,",
+"            ""averagePrice"": 173300,",
+"            ""medianPrice"": 147900,",
+"            ""minPrice"": 134999,",
+"            ""maxPrice"": 237000,",
+"            ""averagePricePerSquareFoot"": 199","42,"
+"            ""medianPricePerSquareFoot"": 184","88,"
+"            ""minPricePerSquareFoot"": 168","54,"
+"            ""maxPricePerSquareFoot"": 244","83,"
+"            ""averageSquareFootage"": 856,",
+"            ""medianSquareFootage"": 801,",
+"            ""minSquareFootage"": 800,",
+"            ""maxSquareFootage"": 968,",
+"            ""averageDaysOnMarket"": 171","67,"
+"            ""medianDaysOnMarket"": 102,",
+"            ""minDaysOnMarket"": 67,",
+"            ""maxDaysOnMarket"": 346,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 3",
+"          },",
+          {,
+"            ""bedrooms"": 2,",
+"            ""averagePrice"": 248560,",
+"            ""medianPrice"": 227888,",
+"            ""minPrice"": 29900,",
+"            ""maxPrice"": 770000,",
+"            ""averagePricePerSquareFoot"": 213","46,"
+"            ""medianPricePerSquareFoot"": 196","43,"
+"            ""minPricePerSquareFoot"": 65","3,"
+"            ""maxPricePerSquareFoot"": 403","75,"
+"            ""averageSquareFootage"": 1134,",
+"            ""medianSquareFootage"": 1056,",
+"            ""minSquareFootage"": 744,",
+"            ""maxSquareFootage"": 2292,",
+"            ""averageDaysOnMarket"": 74","59,"
+"            ""medianDaysOnMarket"": 46,",
+"            ""minDaysOnMarket"": 4,",
+"            ""maxDaysOnMarket"": 326,",
+"            ""newListings"": 7,",
+"            ""totalListings"": 47",
+"          },",
+          {,
+"            ""bedrooms"": 3,",
+"            ""averagePrice"": 284530,",
+"            ""medianPrice"": 277300,",
+"            ""minPrice"": 64900,",
+"            ""maxPrice"": 765000,",
+"            ""averagePricePerSquareFoot"": 185","14,"
+"            ""medianPricePerSquareFoot"": 174","06,"
+"            ""minPricePerSquareFoot"": 64","9,"
+"            ""maxPricePerSquareFoot"": 500,",
+"            ""averageSquareFootage"": 1567,",
+"            ""medianSquareFootage"": 1573,",
+"            ""minSquareFootage"": 700,",
+"            ""maxSquareFootage"": 2800,",
+"            ""averageDaysOnMarket"": 54","99,"
+"            ""medianDaysOnMarket"": 42,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 225,",
+"            ""newListings"": 34,",
+"            ""totalListings"": 132",
+"          },",
+          {,
+"            ""bedrooms"": 4,",
+"            ""averagePrice"": 429120,",
+"            ""medianPrice"": 405000,",
+"            ""minPrice"": 179900,",
+"            ""maxPrice"": 1150000,",
+"            ""averagePricePerSquareFoot"": 188","85,"
+"            ""medianPricePerSquareFoot"": 170","99,"
+"            ""minPricePerSquareFoot"": 128","61,"
+"            ""maxPricePerSquareFoot"": 375","33,"
+"            ""averageSquareFootage"": 2268,",
+"            ""medianSquareFootage"": 2096,",
+"            ""minSquareFootage"": 1318,",
+"            ""maxSquareFootage"": 3499,",
+"            ""averageDaysOnMarket"": 71","15,"
+"            ""medianDaysOnMarket"": 51,",
+"            ""minDaysOnMarket"": 4,",
+"            ""maxDaysOnMarket"": 247,",
+"            ""newListings"": 10,",
+"            ""totalListings"": 40",
+"          },",
+          {,
+"            ""bedrooms"": 5,",
+"            ""averagePrice"": 571955,",
+"            ""medianPrice"": 600000,",
+"            ""minPrice"": 399777,",
+"            ""maxPrice"": 850000,",
+"            ""averagePricePerSquareFoot"": 209","43,"
+"            ""medianPricePerSquareFoot"": 214","29,"
+"            ""minPricePerSquareFoot"": 105","85,"
+"            ""maxPricePerSquareFoot"": 351","97,"
+"            ""averageSquareFootage"": 2879,",
+"            ""medianSquareFootage"": 2747,",
+"            ""minSquareFootage"": 2415,",
+"            ""maxSquareFootage"": 3777,",
+"            ""averageDaysOnMarket"": 103,",
+"            ""medianDaysOnMarket"": 77,",
+"            ""minDaysOnMarket"": 5,",
+"            ""maxDaysOnMarket"": 328,",
+"            ""newListings"": 2,",
+"            ""totalListings"": 5",
+"          },",
+          {,
+"            ""bedrooms"": 6,",
+"            ""averagePrice"": 499900,",
+"            ""medianPrice"": 499900,",
+"            ""minPrice"": 499900,",
+"            ""maxPrice"": 499900,",
+"            ""averagePricePerSquareFoot"": null,",
+"            ""medianPricePerSquareFoot"": null,",
+"            ""minPricePerSquareFoot"": null,",
+"            ""maxPricePerSquareFoot"": null,",
+"            ""averageSquareFootage"": null,",
+"            ""medianSquareFootage"": null,",
+"            ""minSquareFootage"": null,",
+"            ""maxSquareFootage"": null,",
+"            ""averageDaysOnMarket"": 4,",
+"            ""medianDaysOnMarket"": 4,",
+"            ""minDaysOnMarket"": 4,",
+"            ""maxDaysOnMarket"": 4,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 1",
+          },
+        ],
+"      },",
+"      ""2024-12"": {",
+"        ""date"": ""2024-12-01T00:00:00","000Z"","
+"        ""averagePrice"": 315145,",
+"        ""medianPrice"": 278891,",
+"        ""minPrice"": 25000,",
+"        ""maxPrice"": 1500000,",
+"        ""averagePricePerSquareFoot"": 191","64,"
+"        ""medianPricePerSquareFoot"": 177","76,"
+"        ""minPricePerSquareFoot"": 64","48,"
+"        ""maxPricePerSquareFoot"": 404","49,"
+"        ""averageSquareFootage"": 1710,",
+"        ""medianSquareFootage"": 1573,",
+"        ""minSquareFootage"": 744,",
+"        ""maxSquareFootage"": 5265,",
+"        ""averageDaysOnMarket"": 84","48,"
+"        ""medianDaysOnMarket"": 60,",
+"        ""minDaysOnMarket"": 2,",
+"        ""maxDaysOnMarket"": 357,",
+"        ""newListings"": 35,",
+"        ""totalListings"": 201,",
+"        ""dataByPropertyType"": [",
+          {,
+"            ""propertyType"": ""Condo"",",
+"            ""averagePrice"": 190000,",
+"            ""medianPrice"": 190000,",
+"            ""minPrice"": 190000,",
+"            ""maxPrice"": 190000,",
+"            ""averagePricePerSquareFoot"": 155","99,"
+"            ""medianPricePerSquareFoot"": 155","99,"
+"            ""minPricePerSquareFoot"": 155","99,"
+"            ""maxPricePerSquareFoot"": 155","99,"
+"            ""averageSquareFootage"": 1218,",
+"            ""medianSquareFootage"": 1218,",
+"            ""minSquareFootage"": 1218,",
+"            ""maxSquareFootage"": 1218,",
+"            ""averageDaysOnMarket"": 39,",
+"            ""medianDaysOnMarket"": 39,",
+"            ""minDaysOnMarket"": 39,",
+"            ""maxDaysOnMarket"": 39,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""propertyType"": ""Land"",",
+"            ""averagePrice"": 288215,",
+"            ""medianPrice"": 115000,",
+"            ""minPrice"": 25000,",
+"            ""maxPrice"": 1500000,",
+"            ""averagePricePerSquareFoot"": null,",
+"            ""medianPricePerSquareFoot"": null,",
+"            ""minPricePerSquareFoot"": null,",
+"            ""maxPricePerSquareFoot"": null,",
+"            ""averageSquareFootage"": null,",
+"            ""medianSquareFootage"": null,",
+"            ""minSquareFootage"": null,",
+"            ""maxSquareFootage"": null,",
+"            ""averageDaysOnMarket"": 134","67,"
+"            ""medianDaysOnMarket"": 119,",
+"            ""minDaysOnMarket"": 5,",
+"            ""maxDaysOnMarket"": 357,",
+"            ""newListings"": 6,",
+"            ""totalListings"": 27",
+"          },",
+          {,
+"            ""propertyType"": ""Manufactured"",",
+"            ""averagePrice"": 205745,",
+"            ""medianPrice"": 176000,",
+"            ""minPrice"": 29900,",
+"            ""maxPrice"": 600000,",
+"            ""averagePricePerSquareFoot"": 144","71,"
+"            ""medianPricePerSquareFoot"": 140,",
+"            ""minPricePerSquareFoot"": 95","6,"
+"            ""maxPricePerSquareFoot"": 214","29,"
+"            ""averageSquareFootage"": 1492,",
+"            ""medianSquareFootage"": 1318,",
+"            ""minSquareFootage"": 1134,",
+"            ""maxSquareFootage"": 2800,",
+"            ""averageDaysOnMarket"": 54","45,"
+"            ""medianDaysOnMarket"": 45,",
+"            ""minDaysOnMarket"": 7,",
+"            ""maxDaysOnMarket"": 136,",
+"            ""newListings"": 2,",
+"            ""totalListings"": 11",
+"          },",
+          {,
+"            ""propertyType"": ""Multi-Family"",",
+"            ""averagePrice"": 419600,",
+"            ""medianPrice"": 499900,",
+"            ""minPrice"": 199900,",
+"            ""maxPrice"": 559000,",
+"            ""averagePricePerSquareFoot"": 234","49,"
+"            ""medianPricePerSquareFoot"": 64","48,"
+"            ""minPricePerSquareFoot"": 64","48,"
+"            ""maxPricePerSquareFoot"": 404","49,"
+"            ""averageSquareFootage"": 2241,",
+"            ""medianSquareFootage"": 1382,",
+"            ""minSquareFootage"": 1382,",
+"            ""maxSquareFootage"": 3100,",
+"            ""averageDaysOnMarket"": 37","33,"
+"            ""medianDaysOnMarket"": 35,",
+"            ""minDaysOnMarket"": 17,",
+"            ""maxDaysOnMarket"": 60,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 3",
+"          },",
+          {,
+"            ""propertyType"": ""Single Family"",",
+"            ""averagePrice"": 333374,",
+"            ""medianPrice"": 299900,",
+"            ""minPrice"": 132500,",
+"            ""maxPrice"": 1150000,",
+"            ""averagePricePerSquareFoot"": 197","3,"
+"            ""medianPricePerSquareFoot"": 188","89,"
+"            ""minPricePerSquareFoot"": 88","85,"
+"            ""maxPricePerSquareFoot"": 403","75,"
+"            ""averageSquareFootage"": 1742,",
+"            ""medianSquareFootage"": 1620,",
+"            ""minSquareFootage"": 744,",
+"            ""maxSquareFootage"": 5265,",
+"            ""averageDaysOnMarket"": 81","32,"
+"            ""medianDaysOnMarket"": 65,",
+"            ""minDaysOnMarket"": 3,",
+"            ""maxDaysOnMarket"": 346,",
+"            ""newListings"": 19,",
+"            ""totalListings"": 125",
+"          },",
+          {,
+"            ""propertyType"": ""Townhouse"",",
+"            ""averagePrice"": 299370,",
+"            ""medianPrice"": 276990,",
+"            ""minPrice"": 192000,",
+"            ""maxPrice"": 765000,",
+"            ""averagePricePerSquareFoot"": 183","67,"
+"            ""medianPricePerSquareFoot"": 165","28,"
+"            ""minPricePerSquareFoot"": 141","11,"
+"            ""maxPricePerSquareFoot"": 386","84,"
+"            ""averageSquareFootage"": 1644,",
+"            ""medianSquareFootage"": 1573,",
+"            ""minSquareFootage"": 1000,",
+"            ""maxSquareFootage"": 2150,",
+"            ""averageDaysOnMarket"": 75","64,"
+"            ""medianDaysOnMarket"": 41,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 325,",
+"            ""newListings"": 7,",
+"            ""totalListings"": 34",
+          },
+"        ],",
+"        ""dataByBedrooms"": [",
+          {,
+"            ""bedrooms"": 1,",
+"            ""averagePrice"": 184750,",
+"            ""medianPrice"": 132500,",
+"            ""minPrice"": 132500,",
+"            ""maxPrice"": 237000,",
+"            ""averagePricePerSquareFoot"": 205","13,"
+"            ""medianPricePerSquareFoot"": 165","42,"
+"            ""minPricePerSquareFoot"": 165","42,"
+"            ""maxPricePerSquareFoot"": 244","83,"
+"            ""averageSquareFootage"": 884,",
+"            ""medianSquareFootage"": 801,",
+"            ""minSquareFootage"": 801,",
+"            ""maxSquareFootage"": 968,",
+"            ""averageDaysOnMarket"": 222,",
+"            ""medianDaysOnMarket"": 98,",
+"            ""minDaysOnMarket"": 98,",
+"            ""maxDaysOnMarket"": 346,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 2",
+"          },",
+          {,
+"            ""bedrooms"": 2,",
+"            ""averagePrice"": 259990,",
+"            ""medianPrice"": 249900,",
+"            ""minPrice"": 29900,",
+"            ""maxPrice"": 535000,",
+"            ""averagePricePerSquareFoot"": 232","18,"
+"            ""medianPricePerSquareFoot"": 199","9,"
+"            ""minPricePerSquareFoot"": 133","01,"
+"            ""maxPricePerSquareFoot"": 403","75,"
+"            ""averageSquareFootage"": 1153,",
+"            ""medianSquareFootage"": 1120,",
+"            ""minSquareFootage"": 744,",
+"            ""maxSquareFootage"": 1620,",
+"            ""averageDaysOnMarket"": 76","62,"
+"            ""medianDaysOnMarket"": 46,",
+"            ""minDaysOnMarket"": 3,",
+"            ""maxDaysOnMarket"": 325,",
+"            ""newListings"": 5,",
+"            ""totalListings"": 30",
+"          },",
+          {,
+"            ""bedrooms"": 3,",
+"            ""averagePrice"": 285798,",
+"            ""medianPrice"": 275400,",
+"            ""minPrice"": 145000,",
+"            ""maxPrice"": 765000,",
+"            ""averagePricePerSquareFoot"": 183","32,"
+"            ""medianPricePerSquareFoot"": 174","06,"
+"            ""minPricePerSquareFoot"": 88","85,"
+"            ""maxPricePerSquareFoot"": 404","49,"
+"            ""averageSquareFootage"": 1574,",
+"            ""medianSquareFootage"": 1573,",
+"            ""minSquareFootage"": 1000,",
+"            ""maxSquareFootage"": 2800,",
+"            ""averageDaysOnMarket"": 75","02,"
+"            ""medianDaysOnMarket"": 57,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 256,",
+"            ""newListings"": 16,",
+"            ""totalListings"": 100",
+"          },",
+          {,
+"            ""bedrooms"": 4,",
+"            ""averagePrice"": 442564,",
+"            ""medianPrice"": 420750,",
+"            ""minPrice"": 179900,",
+"            ""maxPrice"": 1150000,",
+"            ""averagePricePerSquareFoot"": 190","08,"
+"            ""medianPricePerSquareFoot"": 172","13,"
+"            ""minPricePerSquareFoot"": 128","61,"
+"            ""maxPricePerSquareFoot"": 375","33,"
+"            ""averageSquareFootage"": 2318,",
+"            ""medianSquareFootage"": 2123,",
+"            ""minSquareFootage"": 1318,",
+"            ""maxSquareFootage"": 3499,",
+"            ""averageDaysOnMarket"": 81","94,"
+"            ""medianDaysOnMarket"": 63,",
+"            ""minDaysOnMarket"": 5,",
+"            ""maxDaysOnMarket"": 278,",
+"            ""newListings"": 6,",
+"            ""totalListings"": 35",
+"          },",
+          {,
+"            ""bedrooms"": 5,",
+"            ""averagePrice"": 428935,",
+"            ""medianPrice"": 410000,",
+"            ""minPrice"": 199900,",
+"            ""maxPrice"": 600000,",
+"            ""averagePricePerSquareFoot"": 147","27,"
+"            ""medianPricePerSquareFoot"": 149","25,"
+"            ""minPricePerSquareFoot"": 64","48,"
+"            ""maxPricePerSquareFoot"": 214","29,"
+"            ""averageSquareFootage"": 3016,",
+"            ""medianSquareFootage"": 2800,",
+"            ""minSquareFootage"": 2657,",
+"            ""maxSquareFootage"": 3777,",
+"            ""averageDaysOnMarket"": 65","6,"
+"            ""medianDaysOnMarket"": 45,",
+"            ""minDaysOnMarket"": 17,",
+"            ""maxDaysOnMarket"": 122,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 5",
+"          },",
+          {,
+"            ""bedrooms"": 6,",
+"            ""averagePrice"": 589450,",
+"            ""medianPrice"": 499900,",
+"            ""minPrice"": 499900,",
+"            ""maxPrice"": 679000,",
+"            ""averagePricePerSquareFoot"": 128","96,"
+"            ""medianPricePerSquareFoot"": 128","96,"
+"            ""minPricePerSquareFoot"": 128","96,"
+"            ""maxPricePerSquareFoot"": 128","96,"
+"            ""averageSquareFootage"": 5265,",
+"            ""medianSquareFootage"": 5265,",
+"            ""minSquareFootage"": 5265,",
+"            ""maxSquareFootage"": 5265,",
+"            ""averageDaysOnMarket"": 23","5,"
+"            ""medianDaysOnMarket"": 12,",
+"            ""minDaysOnMarket"": 12,",
+"            ""maxDaysOnMarket"": 35,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 2",
+          },
+        ],
+"      },",
+"      ""2025-01"": {",
+"        ""date"": ""2025-01-01T00:00:00","000Z"","
+"        ""averagePrice"": 327910,",
+"        ""medianPrice"": 283049,",
+"        ""minPrice"": 25000,",
+"        ""maxPrice"": 1500000,",
+"        ""averagePricePerSquareFoot"": 197","57,"
+"        ""medianPricePerSquareFoot"": 178","54,"
+"        ""minPricePerSquareFoot"": 64","48,"
+"        ""maxPricePerSquareFoot"": 404","49,"
+"        ""averageSquareFootage"": 1711,",
+"        ""medianSquareFootage"": 1573,",
+"        ""minSquareFootage"": 801,",
+"        ""maxSquareFootage"": 5265,",
+"        ""averageDaysOnMarket"": 92","32,"
+"        ""medianDaysOnMarket"": 72,",
+"        ""minDaysOnMarket"": 2,",
+"        ""maxDaysOnMarket"": 359,",
+"        ""newListings"": 36,",
+"        ""totalListings"": 190,",
+"        ""dataByPropertyType"": [",
+          {,
+"            ""propertyType"": ""Condo"",",
+"            ""averagePrice"": 190000,",
+"            ""medianPrice"": 190000,",
+"            ""minPrice"": 190000,",
+"            ""maxPrice"": 190000,",
+"            ""averagePricePerSquareFoot"": 155","99,"
+"            ""medianPricePerSquareFoot"": 155","99,"
+"            ""minPricePerSquareFoot"": 155","99,"
+"            ""maxPricePerSquareFoot"": 155","99,"
+"            ""averageSquareFootage"": 1218,",
+"            ""medianSquareFootage"": 1218,",
+"            ""minSquareFootage"": 1218,",
+"            ""maxSquareFootage"": 1218,",
+"            ""averageDaysOnMarket"": 70,",
+"            ""medianDaysOnMarket"": 70,",
+"            ""minDaysOnMarket"": 70,",
+"            ""maxDaysOnMarket"": 70,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""propertyType"": ""Land"",",
+"            ""averagePrice"": 311527,",
+"            ""medianPrice"": 94000,",
+"            ""minPrice"": 25000,",
+"            ""maxPrice"": 1500000,",
+"            ""averagePricePerSquareFoot"": null,",
+"            ""medianPricePerSquareFoot"": null,",
+"            ""minPricePerSquareFoot"": null,",
+"            ""maxPricePerSquareFoot"": null,",
+"            ""averageSquareFootage"": null,",
+"            ""medianSquareFootage"": null,",
+"            ""minSquareFootage"": null,",
+"            ""maxSquareFootage"": null,",
+"            ""averageDaysOnMarket"": 137,",
+"            ""medianDaysOnMarket"": 127,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 359,",
+"            ""newListings"": 3,",
+"            ""totalListings"": 26",
+"          },",
+          {,
+"            ""propertyType"": ""Manufactured"",",
+"            ""averagePrice"": 184536,",
+"            ""medianPrice"": 179900,",
+"            ""minPrice"": 164990,",
+"            ""maxPrice"": 210000,",
+"            ""averagePricePerSquareFoot"": 137","71,"
+"            ""medianPricePerSquareFoot"": 136","49,"
+"            ""minPricePerSquareFoot"": 91","52,"
+"            ""maxPricePerSquareFoot"": 165","01,"
+"            ""averageSquareFootage"": 1378,",
+"            ""medianSquareFootage"": 1248,",
+"            ""minSquareFootage"": 1134,",
+"            ""maxSquareFootage"": 2016,",
+"            ""averageDaysOnMarket"": 62","62,"
+"            ""medianDaysOnMarket"": 46,",
+"            ""minDaysOnMarket"": 6,",
+"            ""maxDaysOnMarket"": 136,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 8",
+"          },",
+          {,
+"            ""propertyType"": ""Multi-Family"",",
+"            ""averagePrice"": 414600,",
+"            ""medianPrice"": 484900,",
+"            ""minPrice"": 199900,",
+"            ""maxPrice"": 559000,",
+"            ""averagePricePerSquareFoot"": 234","49,"
+"            ""medianPricePerSquareFoot"": 64","48,"
+"            ""minPricePerSquareFoot"": 64","48,"
+"            ""maxPricePerSquareFoot"": 404","49,"
+"            ""averageSquareFootage"": 2241,",
+"            ""medianSquareFootage"": 1382,",
+"            ""minSquareFootage"": 1382,",
+"            ""maxSquareFootage"": 3100,",
+"            ""averageDaysOnMarket"": 58,",
+"            ""medianDaysOnMarket"": 66,",
+"            ""minDaysOnMarket"": 17,",
+"            ""maxDaysOnMarket"": 91,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 3",
+"          },",
+          {,
+"            ""propertyType"": ""Single Family"",",
+"            ""averagePrice"": 343447,",
+"            ""medianPrice"": 305000,",
+"            ""minPrice"": 129900,",
+"            ""maxPrice"": 1150000,",
+"            ""averagePricePerSquareFoot"": 202","22,"
+"            ""medianPricePerSquareFoot"": 192","94,"
+"            ""minPricePerSquareFoot"": 103","2,"
+"            ""maxPricePerSquareFoot"": 379","96,"
+"            ""averageSquareFootage"": 1745,",
+"            ""medianSquareFootage"": 1556,",
+"            ""minSquareFootage"": 801,",
+"            ""maxSquareFootage"": 5265,",
+"            ""averageDaysOnMarket"": 90","61,"
+"            ""medianDaysOnMarket"": 76,",
+"            ""minDaysOnMarket"": 3,",
+"            ""maxDaysOnMarket"": 309,",
+"            ""newListings"": 21,",
+"            ""totalListings"": 118",
+"          },",
+          {,
+"            ""propertyType"": ""Townhouse"",",
+"            ""averagePrice"": 316657,",
+"            ""medianPrice"": 275400,",
+"            ""minPrice"": 192000,",
+"            ""maxPrice"": 765000,",
+"            ""averagePricePerSquareFoot"": 194","72,"
+"            ""medianPricePerSquareFoot"": 166","55,"
+"            ""minPricePerSquareFoot"": 139","88,"
+"            ""maxPricePerSquareFoot"": 390","46,"
+"            ""averageSquareFootage"": 1656,",
+"            ""medianSquareFootage"": 1573,",
+"            ""minSquareFootage"": 1273,",
+"            ""maxSquareFootage"": 2150,",
+"            ""averageDaysOnMarket"": 79","67,"
+"            ""medianDaysOnMarket"": 72,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 325,",
+"            ""newListings"": 11,",
+"            ""totalListings"": 34",
+          },
+"        ],",
+"        ""dataByBedrooms"": [",
+          {,
+"            ""bedrooms"": 1,",
+"            ""averagePrice"": 129900,",
+"            ""medianPrice"": 129900,",
+"            ""minPrice"": 129900,",
+"            ""maxPrice"": 129900,",
+"            ""averagePricePerSquareFoot"": 162","17,"
+"            ""medianPricePerSquareFoot"": 162","17,"
+"            ""minPricePerSquareFoot"": 162","17,"
+"            ""maxPricePerSquareFoot"": 162","17,"
+"            ""averageSquareFootage"": 801,",
+"            ""medianSquareFootage"": 801,",
+"            ""minSquareFootage"": 801,",
+"            ""maxSquareFootage"": 801,",
+"            ""averageDaysOnMarket"": 103,",
+"            ""medianDaysOnMarket"": 103,",
+"            ""minDaysOnMarket"": 103,",
+"            ""maxDaysOnMarket"": 103,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""bedrooms"": 2,",
+"            ""averagePrice"": 286093,",
+"            ""medianPrice"": 275000,",
+"            ""minPrice"": 137000,",
+"            ""maxPrice"": 540000,",
+"            ""averagePricePerSquareFoot"": 242","31,"
+"            ""medianPricePerSquareFoot"": 206","8,"
+"            ""minPricePerSquareFoot"": 133","01,"
+"            ""maxPricePerSquareFoot"": 390","46,"
+"            ""averageSquareFootage"": 1173,",
+"            ""medianSquareFootage"": 1120,",
+"            ""minSquareFootage"": 892,",
+"            ""maxSquareFootage"": 1620,",
+"            ""averageDaysOnMarket"": 88","57,"
+"            ""medianDaysOnMarket"": 77,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 325,",
+"            ""newListings"": 5,",
+"            ""totalListings"": 29",
+"          },",
+          {,
+"            ""bedrooms"": 3,",
+"            ""averagePrice"": 294924,",
+"            ""medianPrice"": 276990,",
+"            ""minPrice"": 164990,",
+"            ""maxPrice"": 765000,",
+"            ""averagePricePerSquareFoot"": 189","32,"
+"            ""medianPricePerSquareFoot"": 176","09,"
+"            ""minPricePerSquareFoot"": 106","9,"
+"            ""maxPricePerSquareFoot"": 404","49,"
+"            ""averageSquareFootage"": 1566,",
+"            ""medianSquareFootage"": 1530,",
+"            ""minSquareFootage"": 1000,",
+"            ""maxSquareFootage"": 2800,",
+"            ""averageDaysOnMarket"": 82","99,"
+"            ""medianDaysOnMarket"": 72,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 287,",
+"            ""newListings"": 21,",
+"            ""totalListings"": 94",
+"          },",
+          {,
+"            ""bedrooms"": 4,",
+"            ""averagePrice"": 446823,",
+"            ""medianPrice"": 425000,",
+"            ""minPrice"": 179900,",
+"            ""maxPrice"": 1150000,",
+"            ""averagePricePerSquareFoot"": 193","9,"
+"            ""medianPricePerSquareFoot"": 178","54,"
+"            ""minPricePerSquareFoot"": 91","52,"
+"            ""maxPricePerSquareFoot"": 375","33,"
+"            ""averageSquareFootage"": 2304,",
+"            ""medianSquareFootage"": 2206,",
+"            ""minSquareFootage"": 1318,",
+"            ""maxSquareFootage"": 3292,",
+"            ""averageDaysOnMarket"": 96","76,"
+"            ""medianDaysOnMarket"": 80,",
+"            ""minDaysOnMarket"": 5,",
+"            ""maxDaysOnMarket"": 309,",
+"            ""newListings"": 7,",
+"            ""totalListings"": 33",
+"          },",
+          {,
+"            ""bedrooms"": 5,",
+"            ""averagePrice"": 428935,",
+"            ""medianPrice"": 410000,",
+"            ""minPrice"": 199900,",
+"            ""maxPrice"": 600000,",
+"            ""averagePricePerSquareFoot"": 147","27,"
+"            ""medianPricePerSquareFoot"": 149","25,"
+"            ""minPricePerSquareFoot"": 64","48,"
+"            ""maxPricePerSquareFoot"": 214","29,"
+"            ""averageSquareFootage"": 3016,",
+"            ""medianSquareFootage"": 2800,",
+"            ""minSquareFootage"": 2657,",
+"            ""maxSquareFootage"": 3777,",
+"            ""averageDaysOnMarket"": 80,",
+"            ""medianDaysOnMarket"": 76,",
+"            ""minDaysOnMarket"": 17,",
+"            ""maxDaysOnMarket"": 137,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 5",
+"          },",
+          {,
+"            ""bedrooms"": 6,",
+"            ""averagePrice"": 581950,",
+"            ""medianPrice"": 484900,",
+"            ""minPrice"": 484900,",
+"            ""maxPrice"": 679000,",
+"            ""averagePricePerSquareFoot"": 128","96,"
+"            ""medianPricePerSquareFoot"": 128","96,"
+"            ""minPricePerSquareFoot"": 128","96,"
+"            ""maxPricePerSquareFoot"": 128","96,"
+"            ""averageSquareFootage"": 5265,",
+"            ""medianSquareFootage"": 5265,",
+"            ""minSquareFootage"": 5265,",
+"            ""maxSquareFootage"": 5265,",
+"            ""averageDaysOnMarket"": 44","5,"
+"            ""medianDaysOnMarket"": 23,",
+"            ""minDaysOnMarket"": 23,",
+"            ""maxDaysOnMarket"": 66,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 2",
+          },
+        ],
+"      },",
+"      ""2025-02"": {",
+"        ""date"": ""2025-02-01T00:00:00","000Z"","
+"        ""averagePrice"": 328799,",
+"        ""medianPrice"": 286278,",
+"        ""minPrice"": 25000,",
+"        ""maxPrice"": 1300000,",
+"        ""averagePricePerSquareFoot"": 201","34,"
+"        ""medianPricePerSquareFoot"": 184","08,"
+"        ""minPricePerSquareFoot"": 64","48,"
+"        ""maxPricePerSquareFoot"": 404","49,"
+"        ""averageSquareFootage"": 1714,",
+"        ""medianSquareFootage"": 1573,",
+"        ""minSquareFootage"": 801,",
+"        ""maxSquareFootage"": 5265,",
+"        ""averageDaysOnMarket"": 92","78,"
+"        ""medianDaysOnMarket"": 76,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 351,",
+"        ""newListings"": 11,",
+"        ""totalListings"": 191,",
+"        ""dataByPropertyType"": [",
+          {,
+"            ""propertyType"": ""Condo"",",
+"            ""averagePrice"": 186000,",
+"            ""medianPrice"": 186000,",
+"            ""minPrice"": 186000,",
+"            ""maxPrice"": 186000,",
+"            ""averagePricePerSquareFoot"": 152","71,"
+"            ""medianPricePerSquareFoot"": 152","71,"
+"            ""minPricePerSquareFoot"": 152","71,"
+"            ""maxPricePerSquareFoot"": 152","71,"
+"            ""averageSquareFootage"": 1218,",
+"            ""medianSquareFootage"": 1218,",
+"            ""minSquareFootage"": 1218,",
+"            ""maxSquareFootage"": 1218,",
+"            ""averageDaysOnMarket"": 80,",
+"            ""medianDaysOnMarket"": 80,",
+"            ""minDaysOnMarket"": 80,",
+"            ""maxDaysOnMarket"": 80,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""propertyType"": ""Land"",",
+"            ""averagePrice"": 284236,",
+"            ""medianPrice"": 94000,",
+"            ""minPrice"": 25000,",
+"            ""maxPrice"": 1300000,",
+"            ""averagePricePerSquareFoot"": null,",
+"            ""medianPricePerSquareFoot"": null,",
+"            ""minPricePerSquareFoot"": null,",
+"            ""maxPricePerSquareFoot"": null,",
+"            ""averageSquareFootage"": null,",
+"            ""medianSquareFootage"": null,",
+"            ""minSquareFootage"": null,",
+"            ""maxSquareFootage"": null,",
+"            ""averageDaysOnMarket"": 122","39,"
+"            ""medianDaysOnMarket"": 63,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 351,",
+"            ""newListings"": 2,",
+"            ""totalListings"": 28",
+"          },",
+          {,
+"            ""propertyType"": ""Manufactured"",",
+"            ""averagePrice"": 178648,",
+"            ""medianPrice"": 173000,",
+"            ""minPrice"": 164990,",
+"            ""maxPrice"": 199500,",
+"            ""averagePricePerSquareFoot"": 133","28,"
+"            ""medianPricePerSquareFoot"": 136","22,"
+"            ""minPricePerSquareFoot"": 91","52,"
+"            ""maxPricePerSquareFoot"": 165","01,"
+"            ""averageSquareFootage"": 1388,",
+"            ""medianSquareFootage"": 1248,",
+"            ""minSquareFootage"": 1134,",
+"            ""maxSquareFootage"": 2016,",
+"            ""averageDaysOnMarket"": 56","17,"
+"            ""medianDaysOnMarket"": 37,",
+"            ""minDaysOnMarket"": 7,",
+"            ""maxDaysOnMarket"": 136,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 6",
+"          },",
+          {,
+"            ""propertyType"": ""Multi-Family"",",
+"            ""averagePrice"": 414600,",
+"            ""medianPrice"": 484900,",
+"            ""minPrice"": 199900,",
+"            ""maxPrice"": 559000,",
+"            ""averagePricePerSquareFoot"": 234","49,"
+"            ""medianPricePerSquareFoot"": 64","48,"
+"            ""minPricePerSquareFoot"": 64","48,"
+"            ""maxPricePerSquareFoot"": 404","49,"
+"            ""averageSquareFootage"": 2241,",
+"            ""medianSquareFootage"": 1382,",
+"            ""minSquareFootage"": 1382,",
+"            ""maxSquareFootage"": 3100,",
+"            ""averageDaysOnMarket"": 64","67,"
+"            ""medianDaysOnMarket"": 76,",
+"            ""minDaysOnMarket"": 17,",
+"            ""maxDaysOnMarket"": 101,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 3",
+"          },",
+          {,
+"            ""propertyType"": ""Single Family"",",
+"            ""averagePrice"": 348258,",
+"            ""medianPrice"": 313900,",
+"            ""minPrice"": 129900,",
+"            ""maxPrice"": 1150000,",
+"            ""averagePricePerSquareFoot"": 205","98,"
+"            ""medianPricePerSquareFoot"": 196","41,"
+"            ""minPricePerSquareFoot"": 103","2,"
+"            ""maxPricePerSquareFoot"": 379","96,"
+"            ""averageSquareFootage"": 1741,",
+"            ""medianSquareFootage"": 1590,",
+"            ""minSquareFootage"": 801,",
+"            ""maxSquareFootage"": 5265,",
+"            ""averageDaysOnMarket"": 91","02,"
+"            ""medianDaysOnMarket"": 76,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 319,",
+"            ""newListings"": 3,",
+"            ""totalListings"": 120",
+"          },",
+          {,
+"            ""propertyType"": ""Townhouse"",",
+"            ""averagePrice"": 319677,",
+"            ""medianPrice"": 279990,",
+"            ""minPrice"": 192000,",
+"            ""maxPrice"": 765000,",
+"            ""averagePricePerSquareFoot"": 196","45,"
+"            ""medianPricePerSquareFoot"": 171","79,"
+"            ""minPricePerSquareFoot"": 139","88,"
+"            ""maxPricePerSquareFoot"": 390","46,"
+"            ""averageSquareFootage"": 1659,",
+"            ""medianSquareFootage"": 1573,",
+"            ""minSquareFootage"": 1273,",
+"            ""maxSquareFootage"": 2150,",
+"            ""averageDaysOnMarket"": 88,",
+"            ""medianDaysOnMarket"": 82,",
+"            ""minDaysOnMarket"": 2,",
+"            ""maxDaysOnMarket"": 325,",
+"            ""newListings"": 6,",
+"            ""totalListings"": 33",
+          },
+"        ],",
+"        ""dataByBedrooms"": [",
+          {,
+"            ""bedrooms"": 1,",
+"            ""averagePrice"": 129900,",
+"            ""medianPrice"": 129900,",
+"            ""minPrice"": 129900,",
+"            ""maxPrice"": 129900,",
+"            ""averagePricePerSquareFoot"": 162","17,"
+"            ""medianPricePerSquareFoot"": 162","17,"
+"            ""minPricePerSquareFoot"": 162","17,"
+"            ""maxPricePerSquareFoot"": 162","17,"
+"            ""averageSquareFootage"": 801,",
+"            ""medianSquareFootage"": 801,",
+"            ""minSquareFootage"": 801,",
+"            ""maxSquareFootage"": 801,",
+"            ""averageDaysOnMarket"": 103,",
+"            ""medianDaysOnMarket"": 103,",
+"            ""minDaysOnMarket"": 103,",
+"            ""maxDaysOnMarket"": 103,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""bedrooms"": 2,",
+"            ""averagePrice"": 289132,",
+"            ""medianPrice"": 275000,",
+"            ""minPrice"": 150000,",
+"            ""maxPrice"": 540000,",
+"            ""averagePricePerSquareFoot"": 244","59,"
+"            ""medianPricePerSquareFoot"": 206","8,"
+"            ""minPricePerSquareFoot"": 136","46,"
+"            ""maxPricePerSquareFoot"": 390","46,"
+"            ""averageSquareFootage"": 1175,",
+"            ""medianSquareFootage"": 1120,",
+"            ""minSquareFootage"": 891,",
+"            ""maxSquareFootage"": 1620,",
+"            ""averageDaysOnMarket"": 95","26,"
+"            ""medianDaysOnMarket"": 87,",
+"            ""minDaysOnMarket"": 5,",
+"            ""maxDaysOnMarket"": 325,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 28",
+"          },",
+          {,
+"            ""bedrooms"": 3,",
+"            ""averagePrice"": 304177,",
+"            ""medianPrice"": 279990,",
+"            ""minPrice"": 164990,",
+"            ""maxPrice"": 765000,",
+"            ""averagePricePerSquareFoot"": 195","76,"
+"            ""medianPricePerSquareFoot"": 179","27,"
+"            ""minPricePerSquareFoot"": 106","9,"
+"            ""maxPricePerSquareFoot"": 404","49,"
+"            ""averageSquareFootage"": 1564,",
+"            ""medianSquareFootage"": 1556,",
+"            ""minSquareFootage"": 1000,",
+"            ""maxSquareFootage"": 2800,",
+"            ""averageDaysOnMarket"": 82","53,"
+"            ""medianDaysOnMarket"": 68,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 297,",
+"            ""newListings"": 8,",
+"            ""totalListings"": 94",
+"          },",
+          {,
+"            ""bedrooms"": 4,",
+"            ""averagePrice"": 445914,",
+"            ""medianPrice"": 425000,",
+"            ""minPrice"": 179900,",
+"            ""maxPrice"": 1150000,",
+"            ""averagePricePerSquareFoot"": 193","44,"
+"            ""medianPricePerSquareFoot"": 178","54,"
+"            ""minPricePerSquareFoot"": 91","52,"
+"            ""maxPricePerSquareFoot"": 375","33,"
+"            ""averageSquareFootage"": 2304,",
+"            ""medianSquareFootage"": 2206,",
+"            ""minSquareFootage"": 1318,",
+"            ""maxSquareFootage"": 3292,",
+"            ""averageDaysOnMarket"": 103","24,"
+"            ""medianDaysOnMarket"": 80,",
+"            ""minDaysOnMarket"": 5,",
+"            ""maxDaysOnMarket"": 319,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 33",
+"          },",
+          {,
+"            ""bedrooms"": 5,",
+"            ""averagePrice"": 428935,",
+"            ""medianPrice"": 410000,",
+"            ""minPrice"": 199900,",
+"            ""maxPrice"": 600000,",
+"            ""averagePricePerSquareFoot"": 147","27,"
+"            ""medianPricePerSquareFoot"": 149","25,"
+"            ""minPricePerSquareFoot"": 64","48,"
+"            ""maxPricePerSquareFoot"": 214","29,"
+"            ""averageSquareFootage"": 3016,",
+"            ""medianSquareFootage"": 2800,",
+"            ""minSquareFootage"": 2657,",
+"            ""maxSquareFootage"": 3777,",
+"            ""averageDaysOnMarket"": 82,",
+"            ""medianDaysOnMarket"": 86,",
+"            ""minDaysOnMarket"": 17,",
+"            ""maxDaysOnMarket"": 137,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 5",
+"          },",
+          {,
+"            ""bedrooms"": 6,",
+"            ""averagePrice"": 581950,",
+"            ""medianPrice"": 484900,",
+"            ""minPrice"": 484900,",
+"            ""maxPrice"": 679000,",
+"            ""averagePricePerSquareFoot"": 128","96,"
+"            ""medianPricePerSquareFoot"": 128","96,"
+"            ""minPricePerSquareFoot"": 128","96,"
+"            ""maxPricePerSquareFoot"": 128","96,"
+"            ""averageSquareFootage"": 5265,",
+"            ""medianSquareFootage"": 5265,",
+"            ""minSquareFootage"": 5265,",
+"            ""maxSquareFootage"": 5265,",
+"            ""averageDaysOnMarket"": 49","5,"
+"            ""medianDaysOnMarket"": 23,",
+"            ""minDaysOnMarket"": 23,",
+"            ""maxDaysOnMarket"": 76,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 2",
+          },
+        ],
+      },
+    },
+"  },",
+"  ""rentalData"": {",
+"    ""lastUpdatedDate"": ""2025-02-10T00:00:00","000Z"","
+"    ""averageRent"": 1453,",
+"    ""medianRent"": 1350,",
+"    ""minRent"": 625,",
+"    ""maxRent"": 3100,",
+"    ""averageRentPerSquareFoot"": 1","35,"
+"    ""medianRentPerSquareFoot"": 1","18,"
+"    ""minRentPerSquareFoot"": 0","86,"
+"    ""maxRentPerSquareFoot"": 2","66,"
+"    ""averageSquareFootage"": 1124,",
+"    ""medianSquareFootage"": 1032,",
+"    ""minSquareFootage"": 374,",
+"    ""maxSquareFootage"": 1800,",
+"    ""averageDaysOnMarket"": 19","44,"
+"    ""medianDaysOnMarket"": 1,",
+"    ""minDaysOnMarket"": 1,",
+"    ""maxDaysOnMarket"": 185,",
+"    ""newListings"": 28,",
+"    ""totalListings"": 66,",
+"    ""dataByPropertyType"": [",
+      {,
+"        ""propertyType"": ""Apartment"",",
+"        ""averageRent"": 1014,",
+"        ""medianRent"": 995,",
+"        ""minRent"": 895,",
+"        ""maxRent"": 1150,",
+"        ""averageRentPerSquareFoot"": 1","26,"
+"        ""medianRentPerSquareFoot"": 1","07,"
+"        ""minRentPerSquareFoot"": 1","03,"
+"        ""maxRentPerSquareFoot"": 2","66,"
+"        ""averageSquareFootage"": 860,",
+"        ""medianSquareFootage"": 950,",
+"        ""minSquareFootage"": 374,",
+"        ""maxSquareFootage"": 1020,",
+"        ""averageDaysOnMarket"": 8","29,"
+"        ""medianDaysOnMarket"": 1,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 41,",
+"        ""newListings"": 9,",
+"        ""totalListings"": 14",
+"      },",
+      {,
+"        ""propertyType"": ""Condo"",",
+"        ""averageRent"": 1595,",
+"        ""medianRent"": 1595,",
+"        ""minRent"": 1595,",
+"        ""maxRent"": 1595,",
+"        ""averageRentPerSquareFoot"": 1","01,"
+"        ""medianRentPerSquareFoot"": 1","01,"
+"        ""minRentPerSquareFoot"": 1","01,"
+"        ""maxRentPerSquareFoot"": 1","01,"
+"        ""averageSquareFootage"": 1576,",
+"        ""medianSquareFootage"": 1576,",
+"        ""minSquareFootage"": 1576,",
+"        ""maxSquareFootage"": 1576,",
+"        ""averageDaysOnMarket"": 1,",
+"        ""medianDaysOnMarket"": 1,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 1,",
+"        ""newListings"": 1,",
+"        ""totalListings"": 1",
+"      },",
+      {,
+"        ""propertyType"": ""Manufactured"",",
+"        ""averageRent"": 625,",
+"        ""medianRent"": 625,",
+"        ""minRent"": 625,",
+"        ""maxRent"": 625,",
+"        ""averageRentPerSquareFoot"": null,",
+"        ""medianRentPerSquareFoot"": null,",
+"        ""minRentPerSquareFoot"": null,",
+"        ""maxRentPerSquareFoot"": null,",
+"        ""averageSquareFootage"": null,",
+"        ""medianSquareFootage"": null,",
+"        ""minSquareFootage"": null,",
+"        ""maxSquareFootage"": null,",
+"        ""averageDaysOnMarket"": null,",
+"        ""medianDaysOnMarket"": null,",
+"        ""minDaysOnMarket"": null,",
+"        ""maxDaysOnMarket"": null,",
+"        ""newListings"": 0,",
+"        ""totalListings"": 1",
+"      },",
+      {,
+"        ""propertyType"": ""Multi-Family"",",
+"        ""averageRent"": 995,",
+"        ""medianRent"": 995,",
+"        ""minRent"": 995,",
+"        ""maxRent"": 995,",
+"        ""averageRentPerSquareFoot"": 2","66,"
+"        ""medianRentPerSquareFoot"": 2","66,"
+"        ""minRentPerSquareFoot"": 2","66,"
+"        ""maxRentPerSquareFoot"": 2","66,"
+"        ""averageSquareFootage"": 374,",
+"        ""medianSquareFootage"": 374,",
+"        ""minSquareFootage"": 374,",
+"        ""maxSquareFootage"": 374,",
+"        ""averageDaysOnMarket"": 1,",
+"        ""medianDaysOnMarket"": 1,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 1,",
+"        ""newListings"": 1,",
+"        ""totalListings"": 1",
+"      },",
+      {,
+"        ""propertyType"": ""Single Family"",",
+"        ""averageRent"": 1538,",
+"        ""medianRent"": 1400,",
+"        ""minRent"": 995,",
+"        ""maxRent"": 2799,",
+"        ""averageRentPerSquareFoot"": 1","39,"
+"        ""medianRentPerSquareFoot"": 1","36,"
+"        ""minRentPerSquareFoot"": 0","86,"
+"        ""maxRentPerSquareFoot"": 2","5,"
+"        ""averageSquareFootage"": 1137,",
+"        ""medianSquareFootage"": 1100,",
+"        ""minSquareFootage"": 700,",
+"        ""maxSquareFootage"": 1600,",
+"        ""averageDaysOnMarket"": 28","56,"
+"        ""medianDaysOnMarket"": 1,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 185,",
+"        ""newListings"": 14,",
+"        ""totalListings"": 40",
+"      },",
+      {,
+"        ""propertyType"": ""Townhouse"",",
+"        ""averageRent"": 1886,",
+"        ""medianRent"": 1749,",
+"        ""minRent"": 1250,",
+"        ""maxRent"": 3100,",
+"        ""averageRentPerSquareFoot"": 1","23,"
+"        ""medianRentPerSquareFoot"": 1","13,"
+"        ""minRentPerSquareFoot"": 1","05,"
+"        ""maxRentPerSquareFoot"": 1","72,"
+"        ""averageSquareFootage"": 1521,",
+"        ""medianSquareFootage"": 1587,",
+"        ""minSquareFootage"": 1150,",
+"        ""maxSquareFootage"": 1800,",
+"        ""averageDaysOnMarket"": 6","44,"
+"        ""medianDaysOnMarket"": 1,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 31,",
+"        ""newListings"": 3,",
+"        ""totalListings"": 9",
+      },
+"    ],",
+"    ""dataByBedrooms"": [",
+      {,
+"        ""bedrooms"": 1,",
+"        ""averageRent"": 925,",
+"        ""medianRent"": 995,",
+"        ""minRent"": 625,",
+"        ""maxRent"": 995,",
+"        ""averageRentPerSquareFoot"": 1","95,"
+"        ""medianRentPerSquareFoot"": 1","53,"
+"        ""minRentPerSquareFoot"": 1","42,"
+"        ""maxRentPerSquareFoot"": 2","66,"
+"        ""averageSquareFootage"": 550,",
+"        ""medianSquareFootage"": 650,",
+"        ""minSquareFootage"": 374,",
+"        ""maxSquareFootage"": 700,",
+"        ""averageDaysOnMarket"": 7","4,"
+"        ""medianDaysOnMarket"": 1,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 33,",
+"        ""newListings"": 4,",
+"        ""totalListings"": 6",
+"      },",
+      {,
+"        ""bedrooms"": 2,",
+"        ""averageRent"": 1315,",
+"        ""medianRent"": 1195,",
+"        ""minRent"": 895,",
+"        ""maxRent"": 2500,",
+"        ""averageRentPerSquareFoot"": 1","31,"
+"        ""medianRentPerSquareFoot"": 1","18,"
+"        ""minRentPerSquareFoot"": 0","96,"
+"        ""maxRentPerSquareFoot"": 2","5,"
+"        ""averageSquareFootage"": 992,",
+"        ""medianSquareFootage"": 980,",
+"        ""minSquareFootage"": 760,",
+"        ""maxSquareFootage"": 1400,",
+"        ""averageDaysOnMarket"": 22","36,"
+"        ""medianDaysOnMarket"": 1,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 185,",
+"        ""newListings"": 11,",
+"        ""totalListings"": 27",
+"      },",
+      {,
+"        ""bedrooms"": 3,",
+"        ""averageRent"": 1659,",
+"        ""medianRent"": 1700,",
+"        ""minRent"": 1020,",
+"        ""maxRent"": 3100,",
+"        ""averageRentPerSquareFoot"": 1","28,"
+"        ""medianRentPerSquareFoot"": 1","13,"
+"        ""minRentPerSquareFoot"": 0","86,"
+"        ""maxRentPerSquareFoot"": 2,",
+"        ""averageSquareFootage"": 1345,",
+"        ""medianSquareFootage"": 1400,",
+"        ""minSquareFootage"": 947,",
+"        ""maxSquareFootage"": 1800,",
+"        ""averageDaysOnMarket"": 19","64,"
+"        ""medianDaysOnMarket"": 1,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 157,",
+"        ""newListings"": 13,",
+"        ""totalListings"": 31",
+"      },",
+      {,
+"        ""bedrooms"": 4,",
+"        ""averageRent"": 1722,",
+"        ""medianRent"": 1595,",
+"        ""minRent"": 1595,",
+"        ""maxRent"": 1850,",
+"        ""averageRentPerSquareFoot"": 1","12,"
+"        ""medianRentPerSquareFoot"": 1,",
+"        ""minRentPerSquareFoot"": 1,",
+"        ""maxRentPerSquareFoot"": 1","23,"
+"        ""averageSquareFootage"": 1545,",
+"        ""medianSquareFootage"": 1500,",
+"        ""minSquareFootage"": 1500,",
+"        ""maxSquareFootage"": 1590,",
+"        ""averageDaysOnMarket"": 1,",
+"        ""medianDaysOnMarket"": 1,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 1,",
+"        ""newListings"": 0,",
+"        ""totalListings"": 2",
+      },
+"    ],",
+"    ""history"": {",
+"      ""2024-09"": {",
+"        ""date"": ""2024-09-01T00:00:00","000Z"","
+"        ""averageRent"": 1536,",
+"        ""medianRent"": 1550,",
+"        ""minRent"": 750,",
+"        ""maxRent"": 2800,",
+"        ""averageRentPerSquareFoot"": 1","38,"
+"        ""medianRentPerSquareFoot"": 1","33,"
+"        ""minRentPerSquareFoot"": 0","86,"
+"        ""maxRentPerSquareFoot"": 2","52,"
+"        ""averageSquareFootage"": 1180,",
+"        ""medianSquareFootage"": 1120,",
+"        ""minSquareFootage"": 590,",
+"        ""maxSquareFootage"": 2100,",
+"        ""averageDaysOnMarket"": 32","03,"
+"        ""medianDaysOnMarket"": 8,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 365,",
+"        ""newListings"": 33,",
+"        ""totalListings"": 80,",
+"        ""dataByPropertyType"": [",
+          {,
+"            ""propertyType"": ""Apartment"",",
+"            ""averageRent"": 1148,",
+"            ""medianRent"": 975,",
+"            ""minRent"": 750,",
+"            ""maxRent"": 1975,",
+"            ""averageRentPerSquareFoot"": 1","25,"
+"            ""medianRentPerSquareFoot"": 1","07,"
+"            ""minRentPerSquareFoot"": 1","03,"
+"            ""maxRentPerSquareFoot"": 1","59,"
+"            ""averageSquareFootage"": 949,",
+"            ""medianSquareFootage"": 850,",
+"            ""minSquareFootage"": 650,",
+"            ""maxSquareFootage"": 1560,",
+"            ""averageDaysOnMarket"": 18","69,"
+"            ""medianDaysOnMarket"": 17,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 80,",
+"            ""newListings"": 7,",
+"            ""totalListings"": 14",
+"          },",
+          {,
+"            ""propertyType"": ""Condo"",",
+"            ""averageRent"": 1210,",
+"            ""medianRent"": 875,",
+"            ""minRent"": 775,",
+"            ""maxRent"": 1595,",
+"            ""averageRentPerSquareFoot"": 1","01,"
+"            ""medianRentPerSquareFoot"": 1","01,"
+"            ""minRentPerSquareFoot"": 1","01,"
+"            ""maxRentPerSquareFoot"": 1","01,"
+"            ""averageSquareFootage"": 1576,",
+"            ""medianSquareFootage"": 1576,",
+"            ""minSquareFootage"": 1576,",
+"            ""maxSquareFootage"": 1576,",
+"            ""averageDaysOnMarket"": 3,",
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 9,",
+"            ""newListings"": 2,",
+"            ""totalListings"": 4",
+"          },",
+          {,
+"            ""propertyType"": ""Manufactured"",",
+"            ""averageRent"": 1700,",
+"            ""medianRent"": 1700,",
+"            ""minRent"": 1700,",
+"            ""maxRent"": 1700,",
+"            ""averageRentPerSquareFoot"": 1","14,"
+"            ""medianRentPerSquareFoot"": 1","14,"
+"            ""minRentPerSquareFoot"": 1","14,"
+"            ""maxRentPerSquareFoot"": 1","14,"
+"            ""averageSquareFootage"": 1492,",
+"            ""medianSquareFootage"": 1492,",
+"            ""minSquareFootage"": 1492,",
+"            ""maxSquareFootage"": 1492,",
+"            ""averageDaysOnMarket"": 48,",
+"            ""medianDaysOnMarket"": 48,",
+"            ""minDaysOnMarket"": 48,",
+"            ""maxDaysOnMarket"": 48,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""propertyType"": ""Single Family"",",
+"            ""averageRent"": 1637,",
+"            ""medianRent"": 1600,",
+"            ""minRent"": 875,",
+"            ""maxRent"": 2800,",
+"            ""averageRentPerSquareFoot"": 1","43,"
+"            ""medianRentPerSquareFoot"": 1","37,"
+"            ""minRentPerSquareFoot"": 0","86,"
+"            ""maxRentPerSquareFoot"": 2","52,"
+"            ""averageSquareFootage"": 1179,",
+"            ""medianSquareFootage"": 1120,",
+"            ""minSquareFootage"": 590,",
+"            ""maxSquareFootage"": 2100,",
+"            ""averageDaysOnMarket"": 38","81,"
+"            ""medianDaysOnMarket"": 10,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 365,",
+"            ""newListings"": 21,",
+"            ""totalListings"": 58",
+"          },",
+          {,
+"            ""propertyType"": ""Townhouse"",",
+"            ""averageRent"": 1783,",
+"            ""medianRent"": 1750,",
+"            ""minRent"": 1750,",
+"            ""maxRent"": 1848,",
+"            ""averageRentPerSquareFoot"": 1","13,"
+"            ""medianRentPerSquareFoot"": 1","11,"
+"            ""minRentPerSquareFoot"": 1","11,"
+"            ""maxRentPerSquareFoot"": 1","14,"
+"            ""averageSquareFootage"": 1598,",
+"            ""medianSquareFootage"": 1580,",
+"            ""minSquareFootage"": 1580,",
+"            ""maxSquareFootage"": 1616,",
+"            ""averageDaysOnMarket"": 1,",
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 1,",
+"            ""newListings"": 3,",
+"            ""totalListings"": 3",
+          },
+"        ],",
+"        ""dataByBedrooms"": [",
+          {,
+"            ""bedrooms"": 1,",
+"            ""averageRent"": 899,",
+"            ""medianRent"": 850,",
+"            ""minRent"": 750,",
+"            ""maxRent"": 1300,",
+"            ""averageRentPerSquareFoot"": 1","35,"
+"            ""medianRentPerSquareFoot"": 1","37,"
+"            ""minRentPerSquareFoot"": 1","06,"
+"            ""maxRentPerSquareFoot"": 1","57,"
+"            ""averageSquareFootage"": 733,",
+"            ""medianSquareFootage"": 675,",
+"            ""minSquareFootage"": 590,",
+"            ""maxSquareFootage"": 950,",
+"            ""averageDaysOnMarket"": 27","86,"
+"            ""medianDaysOnMarket"": 21,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 80,",
+"            ""newListings"": 3,",
+"            ""totalListings"": 8",
+"          },",
+          {,
+"            ""bedrooms"": 2,",
+"            ""averageRent"": 1388,",
+"            ""medianRent"": 1225,",
+"            ""minRent"": 875,",
+"            ""maxRent"": 2650,",
+"            ""averageRentPerSquareFoot"": 1","47,"
+"            ""medianRentPerSquareFoot"": 1","45,"
+"            ""minRentPerSquareFoot"": 0","92,"
+"            ""maxRentPerSquareFoot"": 2","52,"
+"            ""averageSquareFootage"": 972,",
+"            ""medianSquareFootage"": 980,",
+"            ""minSquareFootage"": 825,",
+"            ""maxSquareFootage"": 1275,",
+"            ""averageDaysOnMarket"": 22","77,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 257,",
+"            ""newListings"": 12,",
+"            ""totalListings"": 32",
+"          },",
+          {,
+"            ""bedrooms"": 3,",
+"            ""averageRent"": 1757,",
+"            ""medianRent"": 1750,",
+"            ""minRent"": 1150,",
+"            ""maxRent"": 2800,",
+"            ""averageRentPerSquareFoot"": 1","36,"
+"            ""medianRentPerSquareFoot"": 1","33,"
+"            ""minRentPerSquareFoot"": 1","01,"
+"            ""maxRentPerSquareFoot"": 2","09,"
+"            ""averageSquareFootage"": 1315,",
+"            ""medianSquareFootage"": 1266,",
+"            ""minSquareFootage"": 947,",
+"            ""maxSquareFootage"": 1792,",
+"            ""averageDaysOnMarket"": 44","03,"
+"            ""medianDaysOnMarket"": 6,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 365,",
+"            ""newListings"": 16,",
+"            ""totalListings"": 31",
+"          },",
+          {,
+"            ""bedrooms"": 4,",
+"            ""averageRent"": 1871,",
+"            ""medianRent"": 1850,",
+"            ""minRent"": 1750,",
+"            ""maxRent"": 2150,",
+"            ""averageRentPerSquareFoot"": 1","24,"
+"            ""medianRentPerSquareFoot"": 1","23,"
+"            ""minRentPerSquareFoot"": 0","86,"
+"            ""maxRentPerSquareFoot"": 1","56,"
+"            ""averageSquareFootage"": 1534,",
+"            ""medianSquareFootage"": 1500,",
+"            ""minSquareFootage"": 1213,",
+"            ""maxSquareFootage"": 2100,",
+"            ""averageDaysOnMarket"": 27","44,"
+"            ""medianDaysOnMarket"": 16,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 96,",
+"            ""newListings"": 2,",
+"            ""totalListings"": 9",
+          },
+        ],
+"      },",
+"      ""2024-10"": {",
+"        ""date"": ""2024-10-01T00:00:00","000Z"","
+"        ""averageRent"": 1544,",
+"        ""medianRent"": 1595,",
+"        ""minRent"": 775,",
+"        ""maxRent"": 2700,",
+"        ""averageRentPerSquareFoot"": 1","38,"
+"        ""medianRentPerSquareFoot"": 1","33,"
+"        ""minRentPerSquareFoot"": 0","86,"
+"        ""maxRentPerSquareFoot"": 2","59,"
+"        ""averageSquareFootage"": 1172,",
+"        ""medianSquareFootage"": 1100,",
+"        ""minSquareFootage"": 590,",
+"        ""maxSquareFootage"": 2100,",
+"        ""averageDaysOnMarket"": 21","18,"
+"        ""medianDaysOnMarket"": 1,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 321,",
+"        ""newListings"": 21,",
+"        ""totalListings"": 71,",
+"        ""dataByPropertyType"": [",
+          {,
+"            ""propertyType"": ""Apartment"",",
+"            ""averageRent"": 1128,",
+"            ""medianRent"": 1050,",
+"            ""minRent"": 775,",
+"            ""maxRent"": 1975,",
+"            ""averageRentPerSquareFoot"": 1","24,"
+"            ""medianRentPerSquareFoot"": 1","07,"
+"            ""minRentPerSquareFoot"": 1","03,"
+"            ""maxRentPerSquareFoot"": 1","59,"
+"            ""averageSquareFootage"": 881,",
+"            ""medianSquareFootage"": 850,",
+"            ""minSquareFootage"": 650,",
+"            ""maxSquareFootage"": 1020,",
+"            ""averageDaysOnMarket"": 12","25,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 45,",
+"            ""newListings"": 5,",
+"            ""totalListings"": 13",
+"          },",
+          {,
+"            ""propertyType"": ""Condo"",",
+"            ""averageRent"": 1595,",
+"            ""medianRent"": 1595,",
+"            ""minRent"": 1595,",
+"            ""maxRent"": 1595,",
+"            ""averageRentPerSquareFoot"": 1","01,"
+"            ""medianRentPerSquareFoot"": 1","01,"
+"            ""minRentPerSquareFoot"": 1","01,"
+"            ""maxRentPerSquareFoot"": 1","01,"
+"            ""averageSquareFootage"": 1576,",
+"            ""medianSquareFootage"": 1576,",
+"            ""minSquareFootage"": 1576,",
+"            ""maxSquareFootage"": 1576,",
+"            ""averageDaysOnMarket"": 1,",
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 1,",
+"            ""newListings"": 2,",
+"            ""totalListings"": 2",
+"          },",
+          {,
+"            ""propertyType"": ""Manufactured"",",
+"            ""averageRent"": 1700,",
+"            ""medianRent"": 1700,",
+"            ""minRent"": 1700,",
+"            ""maxRent"": 1700,",
+"            ""averageRentPerSquareFoot"": 1","14,"
+"            ""medianRentPerSquareFoot"": 1","14,"
+"            ""minRentPerSquareFoot"": 1","14,"
+"            ""maxRentPerSquareFoot"": 1","14,"
+"            ""averageSquareFootage"": 1492,",
+"            ""medianSquareFootage"": 1492,",
+"            ""minSquareFootage"": 1492,",
+"            ""maxSquareFootage"": 1492,",
+"            ""averageDaysOnMarket"": 48,",
+"            ""medianDaysOnMarket"": 48,",
+"            ""minDaysOnMarket"": 48,",
+"            ""maxDaysOnMarket"": 48,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""propertyType"": ""Single Family"",",
+"            ""averageRent"": 1630,",
+"            ""medianRent"": 1600,",
+"            ""minRent"": 925,",
+"            ""maxRent"": 2700,",
+"            ""averageRentPerSquareFoot"": 1","45,"
+"            ""medianRentPerSquareFoot"": 1","43,"
+"            ""minRentPerSquareFoot"": 0","86,"
+"            ""maxRentPerSquareFoot"": 2","59,"
+"            ""averageSquareFootage"": 1170,",
+"            ""medianSquareFootage"": 1100,",
+"            ""minSquareFootage"": 590,",
+"            ""maxSquareFootage"": 2100,",
+"            ""averageDaysOnMarket"": 25","89,"
+"            ""medianDaysOnMarket"": 8,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 321,",
+"            ""newListings"": 10,",
+"            ""totalListings"": 50",
+"          },",
+          {,
+"            ""propertyType"": ""Townhouse"",",
+"            ""averageRent"": 1718,",
+"            ""medianRent"": 1750,",
+"            ""minRent"": 1495,",
+"            ""maxRent"": 1848,",
+"            ""averageRentPerSquareFoot"": 1","16,"
+"            ""medianRentPerSquareFoot"": 1","11,"
+"            ""minRentPerSquareFoot"": 1","1,"
+"            ""maxRentPerSquareFoot"": 1","3,"
+"            ""averageSquareFootage"": 1483,",
+"            ""medianSquareFootage"": 1580,",
+"            ""minSquareFootage"": 1150,",
+"            ""maxSquareFootage"": 1616,",
+"            ""averageDaysOnMarket"": 1,",
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 1,",
+"            ""newListings"": 4,",
+"            ""totalListings"": 5",
+          },
+"        ],",
+"        ""dataByBedrooms"": [",
+          {,
+"            ""bedrooms"": 1,",
+"            ""averageRent"": 929,",
+"            ""medianRent"": 925,",
+"            ""minRent"": 775,",
+"            ""maxRent"": 1150,",
+"            ""averageRentPerSquareFoot"": 1","5,"
+"            ""medianRentPerSquareFoot"": 1","45,"
+"            ""minRentPerSquareFoot"": 1","06,"
+"            ""maxRentPerSquareFoot"": 1","92,"
+"            ""averageSquareFootage"": 660,",
+"            ""medianSquareFootage"": 600,",
+"            ""minSquareFootage"": 590,",
+"            ""maxSquareFootage"": 800,",
+"            ""averageDaysOnMarket"": 17","2,"
+"            ""medianDaysOnMarket"": 11,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 45,",
+"            ""newListings"": 2,",
+"            ""totalListings"": 5",
+"          },",
+          {,
+"            ""bedrooms"": 2,",
+"            ""averageRent"": 1414,",
+"            ""medianRent"": 1285,",
+"            ""minRent"": 875,",
+"            ""maxRent"": 2700,",
+"            ""averageRentPerSquareFoot"": 1","48,"
+"            ""medianRentPerSquareFoot"": 1","45,"
+"            ""minRentPerSquareFoot"": 1,",
+"            ""maxRentPerSquareFoot"": 2","59,"
+"            ""averageSquareFootage"": 967,",
+"            ""medianSquareFootage"": 980,",
+"            ""minSquareFootage"": 825,",
+"            ""maxSquareFootage"": 1150,",
+"            ""averageDaysOnMarket"": 27","76,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 321,",
+"            ""newListings"": 8,",
+"            ""totalListings"": 31",
+"          },",
+          {,
+"            ""bedrooms"": 3,",
+"            ""averageRent"": 1721,",
+"            ""medianRent"": 1725,",
+"            ""minRent"": 1150,",
+"            ""maxRent"": 2395,",
+"            ""averageRentPerSquareFoot"": 1","34,"
+"            ""medianRentPerSquareFoot"": 1","33,"
+"            ""minRentPerSquareFoot"": 1","01,"
+"            ""maxRentPerSquareFoot"": 2,",
+"            ""averageSquareFootage"": 1309,",
+"            ""medianSquareFootage"": 1266,",
+"            ""minSquareFootage"": 947,",
+"            ""maxSquareFootage"": 1792,",
+"            ""averageDaysOnMarket"": 13","38,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 93,",
+"            ""newListings"": 10,",
+"            ""totalListings"": 28",
+"          },",
+          {,
+"            ""bedrooms"": 4,",
+"            ""averageRent"": 1856,",
+"            ""medianRent"": 1850,",
+"            ""minRent"": 1595,",
+"            ""maxRent"": 2150,",
+"            ""averageRentPerSquareFoot"": 1","2,"
+"            ""medianRentPerSquareFoot"": 1","23,"
+"            ""minRentPerSquareFoot"": 0","86,"
+"            ""maxRentPerSquareFoot"": 1","43,"
+"            ""averageSquareFootage"": 1576,",
+"            ""medianSquareFootage"": 1500,",
+"            ""minSquareFootage"": 1430,",
+"            ""maxSquareFootage"": 2100,",
+"            ""averageDaysOnMarket"": 25","71,"
+"            ""medianDaysOnMarket"": 32,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 53,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 7",
+          },
+        ],
+"      },",
+"      ""2024-11"": {",
+"        ""date"": ""2024-11-01T00:00:00","000Z"","
+"        ""averageRent"": 1528,",
+"        ""medianRent"": 1595,",
+"        ""minRent"": 625,",
+"        ""maxRent"": 3100,",
+"        ""averageRentPerSquareFoot"": 1","38,"
+"        ""medianRentPerSquareFoot"": 1","34,"
+"        ""minRentPerSquareFoot"": 1,",
+"        ""maxRentPerSquareFoot"": 2","4,"
+"        ""averageSquareFootage"": 1157,",
+"        ""medianSquareFootage"": 1120,",
+"        ""minSquareFootage"": 590,",
+"        ""maxSquareFootage"": 1800,",
+"        ""averageDaysOnMarket"": 26","37,"
+"        ""medianDaysOnMarket"": 1,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 340,",
+"        ""newListings"": 31,",
+"        ""totalListings"": 71,",
+"        ""dataByPropertyType"": [",
+          {,
+"            ""propertyType"": ""Apartment"",",
+"            ""averageRent"": 1043,",
+"            ""medianRent"": 995,",
+"            ""minRent"": 775,",
+"            ""maxRent"": 1350,",
+"            ""averageRentPerSquareFoot"": 1","22,"
+"            ""medianRentPerSquareFoot"": 1","07,"
+"            ""minRentPerSquareFoot"": 1","03,"
+"            ""maxRentPerSquareFoot"": 1","59,"
+"            ""averageSquareFootage"": 870,",
+"            ""medianSquareFootage"": 950,",
+"            ""minSquareFootage"": 650,",
+"            ""maxSquareFootage"": 1020,",
+"            ""averageDaysOnMarket"": 8","83,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 45,",
+"            ""newListings"": 7,",
+"            ""totalListings"": 12",
+"          },",
+          {,
+"            ""propertyType"": ""Condo"",",
+"            ""averageRent"": 1362,",
+"            ""medianRent"": 1595,",
+"            ""minRent"": 895,",
+"            ""maxRent"": 1595,",
+"            ""averageRentPerSquareFoot"": 1","07,"
+"            ""medianRentPerSquareFoot"": 1","01,"
+"            ""minRentPerSquareFoot"": 1","01,"
+"            ""maxRentPerSquareFoot"": 1","18,"
+"            ""averageSquareFootage"": 1304,",
+"            ""medianSquareFootage"": 1576,",
+"            ""minSquareFootage"": 760,",
+"            ""maxSquareFootage"": 1576,",
+"            ""averageDaysOnMarket"": 1,",
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 1,",
+"            ""newListings"": 2,",
+"            ""totalListings"": 3",
+"          },",
+          {,
+"            ""propertyType"": ""Manufactured"",",
+"            ""averageRent"": 1700,",
+"            ""medianRent"": 1700,",
+"            ""minRent"": 1700,",
+"            ""maxRent"": 1700,",
+"            ""averageRentPerSquareFoot"": 1","14,"
+"            ""medianRentPerSquareFoot"": 1","14,"
+"            ""minRentPerSquareFoot"": 1","14,"
+"            ""maxRentPerSquareFoot"": 1","14,"
+"            ""averageSquareFootage"": 1492,",
+"            ""medianSquareFootage"": 1492,",
+"            ""minSquareFootage"": 1492,",
+"            ""maxSquareFootage"": 1492,",
+"            ""averageDaysOnMarket"": 48,",
+"            ""medianDaysOnMarket"": 48,",
+"            ""minDaysOnMarket"": 48,",
+"            ""maxDaysOnMarket"": 48,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""propertyType"": ""Single Family"",",
+"            ""averageRent"": 1605,",
+"            ""medianRent"": 1650,",
+"            ""minRent"": 625,",
+"            ""maxRent"": 2500,",
+"            ""averageRentPerSquareFoot"": 1","47,"
+"            ""medianRentPerSquareFoot"": 1","43,"
+"            ""minRentPerSquareFoot"": 1,",
+"            ""maxRentPerSquareFoot"": 2","4,"
+"            ""averageSquareFootage"": 1153,",
+"            ""medianSquareFootage"": 1130,",
+"            ""minSquareFootage"": 590,",
+"            ""maxSquareFootage"": 1595,",
+"            ""averageDaysOnMarket"": 35","09,"
+"            ""medianDaysOnMarket"": 6,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 340,",
+"            ""newListings"": 18,",
+"            ""totalListings"": 49",
+"          },",
+          {,
+"            ""propertyType"": ""Townhouse"",",
+"            ""averageRent"": 1924,",
+"            ""medianRent"": 1750,",
+"            ""minRent"": 1350,",
+"            ""maxRent"": 3100,",
+"            ""averageRentPerSquareFoot"": 1","25,"
+"            ""medianRentPerSquareFoot"": 1","14,"
+"            ""minRentPerSquareFoot"": 1","1,"
+"            ""maxRentPerSquareFoot"": 1","72,"
+"            ""averageSquareFootage"": 1547,",
+"            ""medianSquareFootage"": 1587,",
+"            ""minSquareFootage"": 1150,",
+"            ""maxSquareFootage"": 1800,",
+"            ""averageDaysOnMarket"": 3","67,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 17,",
+"            ""newListings"": 4,",
+"            ""totalListings"": 6",
+          },
+"        ],",
+"        ""dataByBedrooms"": [",
+          {,
+"            ""bedrooms"": 1,",
+"            ""averageRent"": 1073,",
+"            ""medianRent"": 945,",
+"            ""minRent"": 775,",
+"            ""maxRent"": 1869,",
+"            ""averageRentPerSquareFoot"": 1","48,"
+"            ""medianRentPerSquareFoot"": 1","45,"
+"            ""minRentPerSquareFoot"": 1","06,"
+"            ""maxRentPerSquareFoot"": 1","92,"
+"            ""averageSquareFootage"": 780,",
+"            ""medianSquareFootage"": 650,",
+"            ""minSquareFootage"": 590,",
+"            ""maxSquareFootage"": 1392,",
+"            ""averageDaysOnMarket"": 21","71,"
+"            ""medianDaysOnMarket"": 21,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 50,",
+"            ""newListings"": 2,",
+"            ""totalListings"": 7",
+"          },",
+          {,
+"            ""bedrooms"": 2,",
+"            ""averageRent"": 1343,",
+"            ""medianRent"": 1195,",
+"            ""minRent"": 625,",
+"            ""maxRent"": 2500,",
+"            ""averageRentPerSquareFoot"": 1","39,"
+"            ""medianRentPerSquareFoot"": 1","24,"
+"            ""minRentPerSquareFoot"": 1,",
+"            ""maxRentPerSquareFoot"": 2","4,"
+"            ""averageSquareFootage"": 984,",
+"            ""medianSquareFootage"": 980,",
+"            ""minSquareFootage"": 760,",
+"            ""maxSquareFootage"": 1244,",
+"            ""averageDaysOnMarket"": 37","17,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 340,",
+"            ""newListings"": 17,",
+"            ""totalListings"": 30",
+"          },",
+          {,
+"            ""bedrooms"": 3,",
+"            ""averageRent"": 1779,",
+"            ""medianRent"": 1749,",
+"            ""minRent"": 1150,",
+"            ""maxRent"": 3100,",
+"            ""averageRentPerSquareFoot"": 1","38,"
+"            ""medianRentPerSquareFoot"": 1","38,"
+"            ""minRentPerSquareFoot"": 1","01,"
+"            ""maxRentPerSquareFoot"": 2,",
+"            ""averageSquareFootage"": 1327,",
+"            ""medianSquareFootage"": 1300,",
+"            ""minSquareFootage"": 947,",
+"            ""maxSquareFootage"": 1800,",
+"            ""averageDaysOnMarket"": 15","63,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 123,",
+"            ""newListings"": 11,",
+"            ""totalListings"": 29",
+"          },",
+          {,
+"            ""bedrooms"": 4,",
+"            ""averageRent"": 1817,",
+"            ""medianRent"": 1850,",
+"            ""minRent"": 1595,",
+"            ""maxRent"": 1895,",
+"            ""averageRentPerSquareFoot"": 1","22,"
+"            ""medianRentPerSquareFoot"": 1","23,"
+"            ""minRentPerSquareFoot"": 1","12,"
+"            ""maxRentPerSquareFoot"": 1","26,"
+"            ""averageSquareFootage"": 1486,",
+"            ""medianSquareFootage"": 1500,",
+"            ""minSquareFootage"": 1430,",
+"            ""maxSquareFootage"": 1500,",
+"            ""averageDaysOnMarket"": 28","2,"
+"            ""medianDaysOnMarket"": 38,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 53,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 5",
+          },
+        ],
+"      },",
+"      ""2024-12"": {",
+"        ""date"": ""2024-12-01T00:00:00","000Z"","
+"        ""averageRent"": 1471,",
+"        ""medianRent"": 1395,",
+"        ""minRent"": 625,",
+"        ""maxRent"": 3100,",
+"        ""averageRentPerSquareFoot"": 1","37,"
+"        ""medianRentPerSquareFoot"": 1","29,"
+"        ""minRentPerSquareFoot"": 0","86,"
+"        ""maxRentPerSquareFoot"": 2","4,"
+"        ""averageSquareFootage"": 1099,",
+"        ""medianSquareFootage"": 1032,",
+"        ""minSquareFootage"": 600,",
+"        ""maxSquareFootage"": 1800,",
+"        ""averageDaysOnMarket"": 29","37,"
+"        ""medianDaysOnMarket"": 1,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 340,",
+"        ""newListings"": 26,",
+"        ""totalListings"": 56,",
+"        ""dataByPropertyType"": [",
+          {,
+"            ""propertyType"": ""Apartment"",",
+"            ""averageRent"": 1015,",
+"            ""medianRent"": 995,",
+"            ""minRent"": 895,",
+"            ""maxRent"": 1150,",
+"            ""averageRentPerSquareFoot"": 1","16,"
+"            ""medianRentPerSquareFoot"": 1","07,"
+"            ""minRentPerSquareFoot"": 1","03,"
+"            ""maxRentPerSquareFoot"": 1","53,"
+"            ""averageSquareFootage"": 890,",
+"            ""medianSquareFootage"": 950,",
+"            ""minSquareFootage"": 650,",
+"            ""maxSquareFootage"": 1020,",
+"            ""averageDaysOnMarket"": 6","83,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 41,",
+"            ""newListings"": 10,",
+"            ""totalListings"": 12",
+"          },",
+          {,
+"            ""propertyType"": ""Condo"",",
+"            ""averageRent"": 1595,",
+"            ""medianRent"": 1595,",
+"            ""minRent"": 1595,",
+"            ""maxRent"": 1595,",
+"            ""averageRentPerSquareFoot"": 1","01,"
+"            ""medianRentPerSquareFoot"": 1","01,"
+"            ""minRentPerSquareFoot"": 1","01,"
+"            ""maxRentPerSquareFoot"": 1","01,"
+"            ""averageSquareFootage"": 1576,",
+"            ""medianSquareFootage"": 1576,",
+"            ""minSquareFootage"": 1576,",
+"            ""maxSquareFootage"": 1576,",
+"            ""averageDaysOnMarket"": 1,",
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 1,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""propertyType"": ""Single Family"",",
+"            ""averageRent"": 1555,",
+"            ""medianRent"": 1450,",
+"            ""minRent"": 625,",
+"            ""maxRent"": 2995,",
+"            ""averageRentPerSquareFoot"": 1","49,"
+"            ""medianRentPerSquareFoot"": 1","4,"
+"            ""minRentPerSquareFoot"": 0","86,"
+"            ""maxRentPerSquareFoot"": 2","4,"
+"            ""averageSquareFootage"": 1109,",
+"            ""medianSquareFootage"": 1100,",
+"            ""minSquareFootage"": 600,",
+"            ""maxSquareFootage"": 1564,",
+"            ""averageDaysOnMarket"": 40","62,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 340,",
+"            ""newListings"": 12,",
+"            ""totalListings"": 39",
+"          },",
+          {,
+"            ""propertyType"": ""Townhouse"",",
+"            ""averageRent"": 1998,",
+"            ""medianRent"": 1749,",
+"            ""minRent"": 1295,",
+"            ""maxRent"": 3100,",
+"            ""averageRentPerSquareFoot"": 1","27,"
+"            ""medianRentPerSquareFoot"": 1","13,"
+"            ""minRentPerSquareFoot"": 1","1,"
+"            ""maxRentPerSquareFoot"": 1","72,"
+"            ""averageSquareFootage"": 1538,",
+"            ""medianSquareFootage"": 1587,",
+"            ""minSquareFootage"": 1150,",
+"            ""maxSquareFootage"": 1800,",
+"            ""averageDaysOnMarket"": 8","5,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 31,",
+"            ""newListings"": 3,",
+"            ""totalListings"": 4",
+          },
+"        ],",
+"        ""dataByBedrooms"": [",
+          {,
+"            ""bedrooms"": 1,",
+"            ""averageRent"": 1240,",
+"            ""medianRent"": 995,",
+"            ""minRent"": 945,",
+"            ""maxRent"": 1869,",
+"            ""averageRentPerSquareFoot"": 1","56,"
+"            ""medianRentPerSquareFoot"": 1","45,"
+"            ""minRentPerSquareFoot"": 1","34,"
+"            ""maxRentPerSquareFoot"": 1","92,"
+"            ""averageSquareFootage"": 823,",
+"            ""medianSquareFootage"": 650,",
+"            ""minSquareFootage"": 600,",
+"            ""maxSquareFootage"": 1392,",
+"            ""averageDaysOnMarket"": 19","5,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 50,",
+"            ""newListings"": 2,",
+"            ""totalListings"": 4",
+"          },",
+          {,
+"            ""bedrooms"": 2,",
+"            ""averageRent"": 1284,",
+"            ""medianRent"": 1150,",
+"            ""minRent"": 625,",
+"            ""maxRent"": 2500,",
+"            ""averageRentPerSquareFoot"": 1","33,"
+"            ""medianRentPerSquareFoot"": 1","18,"
+"            ""minRentPerSquareFoot"": 1,",
+"            ""maxRentPerSquareFoot"": 2","4,"
+"            ""averageSquareFootage"": 970,",
+"            ""medianSquareFootage"": 980,",
+"            ""minSquareFootage"": 760,",
+"            ""maxSquareFootage"": 1244,",
+"            ""averageDaysOnMarket"": 37","44,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 340,",
+"            ""newListings"": 13,",
+"            ""totalListings"": 28",
+"          },",
+          {,
+"            ""bedrooms"": 3,",
+"            ""averageRent"": 1707,",
+"            ""medianRent"": 1650,",
+"            ""minRent"": 1020,",
+"            ""maxRent"": 3100,",
+"            ""averageRentPerSquareFoot"": 1","41,"
+"            ""medianRentPerSquareFoot"": 1","35,"
+"            ""minRentPerSquareFoot"": 0","86,"
+"            ""maxRentPerSquareFoot"": 2,",
+"            ""averageSquareFootage"": 1280,",
+"            ""medianSquareFootage"": 1120,",
+"            ""minSquareFootage"": 947,",
+"            ""maxSquareFootage"": 1800,",
+"            ""averageDaysOnMarket"": 20,",
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 154,",
+"            ""newListings"": 11,",
+"            ""totalListings"": 21",
+"          },",
+          {,
+"            ""bedrooms"": 4,",
+"            ""averageRent"": 1880,",
+"            ""medianRent"": 1895,",
+"            ""minRent"": 1850,",
+"            ""maxRent"": 1895,",
+"            ""averageRentPerSquareFoot"": 1","25,"
+"            ""medianRentPerSquareFoot"": 1","26,"
+"            ""minRentPerSquareFoot"": 1","23,"
+"            ""maxRentPerSquareFoot"": 1","26,"
+"            ""averageSquareFootage"": 1500,",
+"            ""medianSquareFootage"": 1500,",
+"            ""minSquareFootage"": 1500,",
+"            ""maxSquareFootage"": 1500,",
+"            ""averageDaysOnMarket"": 24","5,"
+"            ""medianDaysOnMarket"": 6,",
+"            ""minDaysOnMarket"": 6,",
+"            ""maxDaysOnMarket"": 43,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 3",
+          },
+        ],
+"      },",
+"      ""2025-01"": {",
+"        ""date"": ""2025-01-01T00:00:00","000Z"","
+"        ""averageRent"": 1470,",
+"        ""medianRent"": 1295,",
+"        ""minRent"": 625,",
+"        ""maxRent"": 3100,",
+"        ""averageRentPerSquareFoot"": 1","39,"
+"        ""medianRentPerSquareFoot"": 1","32,"
+"        ""minRentPerSquareFoot"": 0","86,"
+"        ""maxRentPerSquareFoot"": 2","93,"
+"        ""averageSquareFootage"": 1106,",
+"        ""medianSquareFootage"": 1032,",
+"        ""minSquareFootage"": 374,",
+"        ""maxSquareFootage"": 1800,",
+"        ""averageDaysOnMarket"": 18","93,"
+"        ""medianDaysOnMarket"": 1,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 175,",
+"        ""newListings"": 35,",
+"        ""totalListings"": 63,",
+"        ""dataByPropertyType"": [",
+          {,
+"            ""propertyType"": ""Apartment"",",
+"            ""averageRent"": 1021,",
+"            ""medianRent"": 1050,",
+"            ""minRent"": 895,",
+"            ""maxRent"": 1150,",
+"            ""averageRentPerSquareFoot"": 1","3,"
+"            ""medianRentPerSquareFoot"": 1","13,"
+"            ""minRentPerSquareFoot"": 1","03,"
+"            ""maxRentPerSquareFoot"": 2","93,"
+"            ""averageSquareFootage"": 850,",
+"            ""medianSquareFootage"": 950,",
+"            ""minSquareFootage"": 374,",
+"            ""maxSquareFootage"": 1020,",
+"            ""averageDaysOnMarket"": 7","46,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 41,",
+"            ""newListings"": 10,",
+"            ""totalListings"": 13",
+"          },",
+          {,
+"            ""propertyType"": ""Manufactured"",",
+"            ""averageRent"": 625,",
+"            ""medianRent"": 625,",
+"            ""minRent"": 625,",
+"            ""maxRent"": 625,",
+"            ""averageRentPerSquareFoot"": null,",
+"            ""medianRentPerSquareFoot"": null,",
+"            ""minRentPerSquareFoot"": null,",
+"            ""maxRentPerSquareFoot"": null,",
+"            ""averageSquareFootage"": null,",
+"            ""medianSquareFootage"": null,",
+"            ""minSquareFootage"": null,",
+"            ""maxSquareFootage"": null,",
+"            ""averageDaysOnMarket"": null,",
+"            ""medianDaysOnMarket"": null,",
+"            ""minDaysOnMarket"": null,",
+"            ""maxDaysOnMarket"": null,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""propertyType"": ""Multi-Family"",",
+"            ""averageRent"": 1095,",
+"            ""medianRent"": 1095,",
+"            ""minRent"": 1095,",
+"            ""maxRent"": 1095,",
+"            ""averageRentPerSquareFoot"": 2","93,"
+"            ""medianRentPerSquareFoot"": 2","93,"
+"            ""minRentPerSquareFoot"": 2","93,"
+"            ""maxRentPerSquareFoot"": 2","93,"
+"            ""averageSquareFootage"": 374,",
+"            ""medianSquareFootage"": 374,",
+"            ""minSquareFootage"": 374,",
+"            ""maxSquareFootage"": 374,",
+"            ""averageDaysOnMarket"": 1,",
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 1,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""propertyType"": ""Single Family"",",
+"            ""averageRent"": 1555,",
+"            ""medianRent"": 1450,",
+"            ""minRent"": 995,",
+"            ""maxRent"": 2995,",
+"            ""averageRentPerSquareFoot"": 1","43,"
+"            ""medianRentPerSquareFoot"": 1","36,"
+"            ""minRentPerSquareFoot"": 0","86,"
+"            ""maxRentPerSquareFoot"": 2","5,"
+"            ""averageSquareFootage"": 1116,",
+"            ""medianSquareFootage"": 1066,",
+"            ""minSquareFootage"": 771,",
+"            ""maxSquareFootage"": 1600,",
+"            ""averageDaysOnMarket"": 27","7,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 175,",
+"            ""newListings"": 18,",
+"            ""totalListings"": 39",
+"          },",
+          {,
+"            ""propertyType"": ""Townhouse"",",
+"            ""averageRent"": 1886,",
+"            ""medianRent"": 1749,",
+"            ""minRent"": 1250,",
+"            ""maxRent"": 3100,",
+"            ""averageRentPerSquareFoot"": 1","23,"
+"            ""medianRentPerSquareFoot"": 1","13,"
+"            ""minRentPerSquareFoot"": 1","05,"
+"            ""maxRentPerSquareFoot"": 1","72,"
+"            ""averageSquareFootage"": 1521,",
+"            ""medianSquareFootage"": 1587,",
+"            ""minSquareFootage"": 1150,",
+"            ""maxSquareFootage"": 1800,",
+"            ""averageDaysOnMarket"": 5","33,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 31,",
+"            ""newListings"": 6,",
+"            ""totalListings"": 9",
+          },
+"        ],",
+"        ""dataByBedrooms"": [",
+          {,
+"            ""bedrooms"": 1,",
+"            ""averageRent"": 951,",
+"            ""medianRent"": 995,",
+"            ""minRent"": 625,",
+"            ""maxRent"": 1095,",
+"            ""averageRentPerSquareFoot"": 2","21,"
+"            ""medianRentPerSquareFoot"": 1","53,"
+"            ""minRentPerSquareFoot"": 1","45,"
+"            ""maxRentPerSquareFoot"": 2","93,"
+"            ""averageSquareFootage"": 512,",
+"            ""medianSquareFootage"": 374,",
+"            ""minSquareFootage"": 374,",
+"            ""maxSquareFootage"": 650,",
+"            ""averageDaysOnMarket"": 4","5,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 15,",
+"            ""newListings"": 4,",
+"            ""totalListings"": 5",
+"          },",
+          {,
+"            ""bedrooms"": 2,",
+"            ""averageRent"": 1331,",
+"            ""medianRent"": 1195,",
+"            ""minRent"": 895,",
+"            ""maxRent"": 2500,",
+"            ""averageRentPerSquareFoot"": 1","35,"
+"            ""medianRentPerSquareFoot"": 1","18,"
+"            ""minRentPerSquareFoot"": 0","96,"
+"            ""maxRentPerSquareFoot"": 2","5,"
+"            ""averageSquareFootage"": 971,",
+"            ""medianSquareFootage"": 980,",
+"            ""minSquareFootage"": 760,",
+"            ""maxSquareFootage"": 1400,",
+"            ""averageDaysOnMarket"": 21","16,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 175,",
+"            ""newListings"": 14,",
+"            ""totalListings"": 27",
+"          },",
+          {,
+"            ""bedrooms"": 3,",
+"            ""averageRent"": 1672,",
+"            ""medianRent"": 1700,",
+"            ""minRent"": 1020,",
+"            ""maxRent"": 3100,",
+"            ""averageRentPerSquareFoot"": 1","33,"
+"            ""medianRentPerSquareFoot"": 1","32,"
+"            ""minRentPerSquareFoot"": 0","86,"
+"            ""maxRentPerSquareFoot"": 2,",
+"            ""averageSquareFootage"": 1317,",
+"            ""medianSquareFootage"": 1300,",
+"            ""minSquareFootage"": 947,",
+"            ""maxSquareFootage"": 1800,",
+"            ""averageDaysOnMarket"": 19","69,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 157,",
+"            ""newListings"": 16,",
+"            ""totalListings"": 29",
+"          },",
+          {,
+"            ""bedrooms"": 4,",
+"            ""averageRent"": 1722,",
+"            ""medianRent"": 1595,",
+"            ""minRent"": 1595,",
+"            ""maxRent"": 1850,",
+"            ""averageRentPerSquareFoot"": 1","12,"
+"            ""medianRentPerSquareFoot"": 1,",
+"            ""minRentPerSquareFoot"": 1,",
+"            ""maxRentPerSquareFoot"": 1","23,"
+"            ""averageSquareFootage"": 1545,",
+"            ""medianSquareFootage"": 1500,",
+"            ""minSquareFootage"": 1500,",
+"            ""maxSquareFootage"": 1590,",
+"            ""averageDaysOnMarket"": 1,",
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 1,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 2",
+          },
+        ],
+"      },",
+"      ""2025-02"": {",
+"        ""date"": ""2025-02-01T00:00:00","000Z"","
+"        ""averageRent"": 1453,",
+"        ""medianRent"": 1350,",
+"        ""minRent"": 625,",
+"        ""maxRent"": 3100,",
+"        ""averageRentPerSquareFoot"": 1","35,"
+"        ""medianRentPerSquareFoot"": 1","18,"
+"        ""minRentPerSquareFoot"": 0","86,"
+"        ""maxRentPerSquareFoot"": 2","66,"
+"        ""averageSquareFootage"": 1124,",
+"        ""medianSquareFootage"": 1032,",
+"        ""minSquareFootage"": 374,",
+"        ""maxSquareFootage"": 1800,",
+"        ""averageDaysOnMarket"": 19","44,"
+"        ""medianDaysOnMarket"": 1,",
+"        ""minDaysOnMarket"": 1,",
+"        ""maxDaysOnMarket"": 185,",
+"        ""newListings"": 28,",
+"        ""totalListings"": 66,",
+"        ""dataByPropertyType"": [",
+          {,
+"            ""propertyType"": ""Apartment"",",
+"            ""averageRent"": 1014,",
+"            ""medianRent"": 995,",
+"            ""minRent"": 895,",
+"            ""maxRent"": 1150,",
+"            ""averageRentPerSquareFoot"": 1","26,"
+"            ""medianRentPerSquareFoot"": 1","07,"
+"            ""minRentPerSquareFoot"": 1","03,"
+"            ""maxRentPerSquareFoot"": 2","66,"
+"            ""averageSquareFootage"": 860,",
+"            ""medianSquareFootage"": 950,",
+"            ""minSquareFootage"": 374,",
+"            ""maxSquareFootage"": 1020,",
+"            ""averageDaysOnMarket"": 8","29,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 41,",
+"            ""newListings"": 9,",
+"            ""totalListings"": 14",
+"          },",
+          {,
+"            ""propertyType"": ""Condo"",",
+"            ""averageRent"": 1595,",
+"            ""medianRent"": 1595,",
+"            ""minRent"": 1595,",
+"            ""maxRent"": 1595,",
+"            ""averageRentPerSquareFoot"": 1","01,"
+"            ""medianRentPerSquareFoot"": 1","01,"
+"            ""minRentPerSquareFoot"": 1","01,"
+"            ""maxRentPerSquareFoot"": 1","01,"
+"            ""averageSquareFootage"": 1576,",
+"            ""medianSquareFootage"": 1576,",
+"            ""minSquareFootage"": 1576,",
+"            ""maxSquareFootage"": 1576,",
+"            ""averageDaysOnMarket"": 1,",
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 1,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""propertyType"": ""Manufactured"",",
+"            ""averageRent"": 625,",
+"            ""medianRent"": 625,",
+"            ""minRent"": 625,",
+"            ""maxRent"": 625,",
+"            ""averageRentPerSquareFoot"": null,",
+"            ""medianRentPerSquareFoot"": null,",
+"            ""minRentPerSquareFoot"": null,",
+"            ""maxRentPerSquareFoot"": null,",
+"            ""averageSquareFootage"": null,",
+"            ""medianSquareFootage"": null,",
+"            ""minSquareFootage"": null,",
+"            ""maxSquareFootage"": null,",
+"            ""averageDaysOnMarket"": null,",
+"            ""medianDaysOnMarket"": null,",
+"            ""minDaysOnMarket"": null,",
+"            ""maxDaysOnMarket"": null,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""propertyType"": ""Multi-Family"",",
+"            ""averageRent"": 995,",
+"            ""medianRent"": 995,",
+"            ""minRent"": 995,",
+"            ""maxRent"": 995,",
+"            ""averageRentPerSquareFoot"": 2","66,"
+"            ""medianRentPerSquareFoot"": 2","66,"
+"            ""minRentPerSquareFoot"": 2","66,"
+"            ""maxRentPerSquareFoot"": 2","66,"
+"            ""averageSquareFootage"": 374,",
+"            ""medianSquareFootage"": 374,",
+"            ""minSquareFootage"": 374,",
+"            ""maxSquareFootage"": 374,",
+"            ""averageDaysOnMarket"": 1,",
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 1,",
+"            ""newListings"": 1,",
+"            ""totalListings"": 1",
+"          },",
+          {,
+"            ""propertyType"": ""Single Family"",",
+"            ""averageRent"": 1538,",
+"            ""medianRent"": 1400,",
+"            ""minRent"": 995,",
+"            ""maxRent"": 2799,",
+"            ""averageRentPerSquareFoot"": 1","39,"
+"            ""medianRentPerSquareFoot"": 1","36,"
+"            ""minRentPerSquareFoot"": 0","86,"
+"            ""maxRentPerSquareFoot"": 2","5,"
+"            ""averageSquareFootage"": 1137,",
+"            ""medianSquareFootage"": 1100,",
+"            ""minSquareFootage"": 700,",
+"            ""maxSquareFootage"": 1600,",
+"            ""averageDaysOnMarket"": 28","56,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 185,",
+"            ""newListings"": 14,",
+"            ""totalListings"": 40",
+"          },",
+          {,
+"            ""propertyType"": ""Townhouse"",",
+"            ""averageRent"": 1886,",
+"            ""medianRent"": 1749,",
+"            ""minRent"": 1250,",
+"            ""maxRent"": 3100,",
+"            ""averageRentPerSquareFoot"": 1","23,"
+"            ""medianRentPerSquareFoot"": 1","13,"
+"            ""minRentPerSquareFoot"": 1","05,"
+"            ""maxRentPerSquareFoot"": 1","72,"
+"            ""averageSquareFootage"": 1521,",
+"            ""medianSquareFootage"": 1587,",
+"            ""minSquareFootage"": 1150,",
+"            ""maxSquareFootage"": 1800,",
+"            ""averageDaysOnMarket"": 6","44,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 31,",
+"            ""newListings"": 3,",
+"            ""totalListings"": 9",
+          },
+"        ],",
+"        ""dataByBedrooms"": [",
+          {,
+"            ""bedrooms"": 1,",
+"            ""averageRent"": 925,",
+"            ""medianRent"": 995,",
+"            ""minRent"": 625,",
+"            ""maxRent"": 995,",
+"            ""averageRentPerSquareFoot"": 1","95,"
+"            ""medianRentPerSquareFoot"": 1","53,"
+"            ""minRentPerSquareFoot"": 1","42,"
+"            ""maxRentPerSquareFoot"": 2","66,"
+"            ""averageSquareFootage"": 550,",
+"            ""medianSquareFootage"": 650,",
+"            ""minSquareFootage"": 374,",
+"            ""maxSquareFootage"": 700,",
+"            ""averageDaysOnMarket"": 7","4,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 33,",
+"            ""newListings"": 4,",
+"            ""totalListings"": 6",
+"          },",
+          {,
+"            ""bedrooms"": 2,",
+"            ""averageRent"": 1315,",
+"            ""medianRent"": 1195,",
+"            ""minRent"": 895,",
+"            ""maxRent"": 2500,",
+"            ""averageRentPerSquareFoot"": 1","31,"
+"            ""medianRentPerSquareFoot"": 1","18,"
+"            ""minRentPerSquareFoot"": 0","96,"
+"            ""maxRentPerSquareFoot"": 2","5,"
+"            ""averageSquareFootage"": 992,",
+"            ""medianSquareFootage"": 980,",
+"            ""minSquareFootage"": 760,",
+"            ""maxSquareFootage"": 1400,",
+"            ""averageDaysOnMarket"": 22","36,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 185,",
+"            ""newListings"": 11,",
+"            ""totalListings"": 27",
+"          },",
+          {,
+"            ""bedrooms"": 3,",
+"            ""averageRent"": 1659,",
+"            ""medianRent"": 1700,",
+"            ""minRent"": 1020,",
+"            ""maxRent"": 3100,",
+"            ""averageRentPerSquareFoot"": 1","28,"
+"            ""medianRentPerSquareFoot"": 1","13,"
+"            ""minRentPerSquareFoot"": 0","86,"
+"            ""maxRentPerSquareFoot"": 2,",
+"            ""averageSquareFootage"": 1345,",
+"            ""medianSquareFootage"": 1400,",
+"            ""minSquareFootage"": 947,",
+"            ""maxSquareFootage"": 1800,",
+"            ""averageDaysOnMarket"": 19","64,"
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 157,",
+"            ""newListings"": 13,",
+"            ""totalListings"": 31",
+"          },",
+          {,
+"            ""bedrooms"": 4,",
+"            ""averageRent"": 1722,",
+"            ""medianRent"": 1595,",
+"            ""minRent"": 1595,",
+"            ""maxRent"": 1850,",
+"            ""averageRentPerSquareFoot"": 1","12,"
+"            ""medianRentPerSquareFoot"": 1,",
+"            ""minRentPerSquareFoot"": 1,",
+"            ""maxRentPerSquareFoot"": 1","23,"
+"            ""averageSquareFootage"": 1545,",
+"            ""medianSquareFootage"": 1500,",
+"            ""minSquareFootage"": 1500,",
+"            ""maxSquareFootage"": 1590,",
+"            ""averageDaysOnMarket"": 1,",
+"            ""medianDaysOnMarket"": 1,",
+"            ""minDaysOnMarket"": 1,",
+"            ""maxDaysOnMarket"": 1,",
+"            ""newListings"": 0,",
+"            ""totalListings"": 2",
+          },
+        ],
+      },
+    },
+  },
+},
