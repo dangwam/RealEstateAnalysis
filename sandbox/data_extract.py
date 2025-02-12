@@ -30,9 +30,15 @@ rc_headers = {
     "accept": "application/json",
     "X-Api-Key": "bbf806b0962242c495828a0db2715c00" # your secret key
 }
-
+        
+rc_querystring = {
+            "zipCode": zip,
+            "dataType": "All",
+            "historyRange": 6
+            
+            }
 # Function to fetch data from the API
-def rc_fetch_data(params=rc_querystring):
+def rc_fetch_data(fname):
     try:
         #response = requests.get(url, headers=headers, params=params)
         response = requests.get(url=rc_url, headers=rc_headers, params=rc_querystring)

@@ -181,17 +181,12 @@ with st.container():
         prefix = "marketdata"
         rc_base_dir = r"B:\workspace\apps\RealEstateAnalysis\datare"
         rc_fname = os.path.join(base_dir, f"rentcatapi_{prefix}_data.json")
-        rc_querystring = {
-            "zipCode": zip,
-            "dataType": "All",
-            "historyRange": 6
-            
-            }
+        
         
         if os.path.exists(fname):
             rc_loaded_data = de.rc_load_json(filename=rc_fname)
         else:
-            rc_loaded_data = de.rc_fetch_data(params=rc_querystring)
+            rc_loaded_data = de.rc_fetch_data(fname=rc_fname)
 
         data = rc_loaded_data
         # 1️⃣ Extracting Aggregate Data (Now Includes SaleData Metrics)
