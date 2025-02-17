@@ -123,7 +123,7 @@ else:
 # Create for Zip
 zip_list = df_city['Zip'].unique()
 zip = st.sidebar.multiselect("Zip", options = zip_list)
-print(zip)
+#print(zip)
 if not zip:
     df_zip = df_city.copy()   
 else:
@@ -239,6 +239,7 @@ with st.container():
 
         # Reorder columns to make `date` the first column
         df_property_types = df_property_types[['date'] + [col for col in df_property_types.columns if col != 'date']]
+        
 
         # 3️⃣ Extracting Bedroom Data
         bedroom_rows = []
@@ -270,6 +271,8 @@ with st.container():
         st.metric("Median 🏡 Price",value = df_aggregate["medianPrice"],delta = "-6%",border=True)
         st.metric("Average 💰 sqft",value = df_aggregate["averagePricePerSquareFoot"],border=True)
         st.metric("Average Days 🏗 market",value = df_aggregate["averageDaysOnMarket"],delta = "5%",border=True)
+
+        
     
     with r1c2:
         df_out = df_filtered.copy()
@@ -286,13 +289,13 @@ with st.container():
             "Year Built": "Year Built 🏗",
             "Lot Size (Acres)": "Lot Size (Acres) 🌳",
             "Living Area": "Living Area (sqft) 📏",
-            "Price": "Price",
+            "Price": "Price 💰",
             "SqFtPrc": "Price per SqFt 💲",
             "State": "State 📍"
             }, inplace=True)
         
         # Convert numeric columns from strings to appropriate types
-        df_out["Price 💰"] = df_out["Price"].astype(float)
+        #df_out["Price 💰"] = df_out["Price"].astype(float)
         #df_out["Price per SqFt 💲"] = df_out["Price per SqFt 💲"].astype(float)
         #df_out["Lot Size (Acres) 🌳"] = df_out["Lot Size (Acres) 🌳"].replace({" acres": ""}, regex=True).astype(float)
                 
@@ -313,6 +316,7 @@ with st.container():
        #df_styled = df_styled.set_table_styles([{"selector": "th", "props": [("font-weight", "bold"), ("font-style", "italic")]}])
         # 🔹 Apply Bold & Italic Styling to Column Names Using Markdown
         #df_out.columns = [f"**_{col}_**" for col in df_out.columns]
+        print(df_styled)
 
         st.dataframe(df_styled, column_config={"Image": st.column_config.ImageColumn(label="Property", width = "small")}, hide_index=True,height=400,use_container_width=True)
     
@@ -361,7 +365,7 @@ with r2c2:
     st.subheader("Prices heatMap")
     folium_static(m)
     
-r3c1,r3c2, r3c3, r3c4 = st.columns([1,1,1,1])
+r3c1,r3c2, r3c3 = st.columns([1,1,1])
 # Ensure Date Column is in datetime format
 df_property_types["date"] = pd.to_datetime(df_property_types["date"])
 
@@ -371,7 +375,7 @@ selected_types = st.sidebar.multiselect("Select Property Type(s)", property_type
 
 # Filter Data
 df_filtered_prop_data = df_property_types[df_property_types["propertyType"].isin(selected_types)]
-print()
+#st.dataframe(df_filtered_prop_data)
 
 with r3c1:
     
@@ -382,25 +386,19 @@ with r3c1:
                         markers=True)
     st.plotly_chart(fig_line, use_container_width=True)
 with r3c2:
-    # 🎯 **2️⃣ Bar Chart - Comparing Property Types**
-    fig_bar = px.bar(df_filtered_prop_data, x="date", y="averagePrice", color="propertyType",
-                    title="Average Price Comparison by Property Type",
-                    barmode="group", labels={"averagePrice": "Average Price ($)", "date": "Date"})
-    st.plotly_chart(fig_bar, use_container_width=True)
+    # 🎯 **2️⃣ Bar Chart - Price by number of bedrooms**
+    fig_line2 = px.line(df_bedrooms, x="date", y="averagePrice", color="bedrooms",
+                    title="Average Price trend by number of bedrooms",
+                    labels={"averagePrice": "Average Price ($)", "date": "Date"})
+    st.plotly_chart(fig_line2, use_container_width=True)
 
 with r3c3:
     # 🎯 **3️⃣ Area Chart - Cumulative Trend**
-    fig_area = px.area(df_filtered_prop_data, x="date", y="averagePrice", color="propertyType",
-                    title="Cumulative Property Price Trend",
-                    labels={"averagePrice": "Average Price ($)", "date": "Date"})
-    st.plotly_chart(fig_area, use_container_width=True)
+    fig_line3 = px.area(df_bedrooms, x="date", y="totalListings", color="bedrooms",
+                    title="Listing Trend",
+                    labels={"totalListings": "Listings", "date": "Date"})
+    st.plotly_chart(fig_line3, use_container_width=True)
 
-with r3c4:    
-    # 🎯 **4️⃣ Box Plot - Price Distribution**
-    fig_box = px.box(df_filtered_prop_data, x="propertyType", y="averagePrice",
-                    title="Price Distribution by Property Type",
-                    labels={"averagePrice": "Average Price ($)", "propertyType": "Property Type"})
-    st.plotly_chart(fig_box, use_container_width=True)
 
 #with r3c5:    
     # 🎯 **5️⃣ Scatter Plot - Price vs. Property Size (If Data Exists)**
@@ -410,5 +408,7 @@ with r3c4:
 #                                labels={"averagePrice": "Price ($)", "LivingArea": "Living Area (SqFt)"},
 #                                size_max=10)
 #        st.plotly_chart(fig_scatter, use_container_width=True)
-
+#st.dataframe(df_property_types)
+#st.dataframe(df_aggregate)
+#st.dataframe(df_bedrooms)
 print("---------------------------------------------------------------------------------------------------------------->>> end")
