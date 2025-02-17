@@ -1,9 +1,7 @@
-pandas==2.2.2
-Requests==2.32.3
-streamlit==1.36.0
-plotly.express
-plotly.graph_objs
+pandas
+Requests
+streamlit
+plotly
 folium
 streamlit_folium
 os
-warnings
